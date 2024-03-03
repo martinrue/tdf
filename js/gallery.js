@@ -1,6 +1,7 @@
 let $gallery = null;
 let $galleryImg = null;
 let $galleryLink = null;
+let $galleryIGLink = null;
 let $galleryLeftIcon = null;
 let $galleryRightIcon = null;
 let $galleryLeftScroller = null;
@@ -30,6 +31,8 @@ const galleryUpdateNavIcons = () => {
 const galleryUpdateImage = () => {
   $galleryImg.src = galleryImages[galleryImage].url;
   $galleryLink.href = galleryImages[galleryImage].ig;
+  $galleryIGLink.style.visibility = galleryImages[galleryImage].ig ? "visible" : "hidden";
+
   galleryUpdateNavIcons();
 };
 
@@ -79,6 +82,7 @@ const galleryInit = () => {
   $gallery = document.querySelector(".gallery-host");
   $galleryImg = $gallery.querySelector(".image img");
   $galleryLink = $gallery.querySelector(".image a");
+  $galleryIGLink = $gallery.querySelector(".image .ig-link");
   $galleryLeftIcon = $gallery.querySelector(".image .left-icon");
   $galleryRightIcon = $gallery.querySelector(".image .right-icon");
   $galleryLeftScroller = $gallery.querySelector(".image .left-scroller");
