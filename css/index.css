@@ -210,6 +210,7 @@ header .sum {
   border: solid 1px #e2f8ff;
   border-radius: 10px;
   max-width: 250px;
+  line-height: 0;
 }
 
 .post-video .video video {
