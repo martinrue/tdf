@@ -162,4 +162,40 @@ const entries = [
       },
     ],
   },
+  {
+    date: "2024-03-08",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "video",
+        cost: 0,
+        title: "🎥 &nbsp; A day in our life",
+        data: {
+          mp4: "/entries/24-03-08/hanoi-video.mp4",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-03-09",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "tickets",
+        cost: 150,
+        title: "✈️ &nbsp;We're taking the adventure south",
+        data: {
+          url: "/entries/24-03-09/ticket.png",
+        },
+      },
+      {
+        type: "timer",
+        cost: 0,
+        title: "⏱️ Time left in Hanoi:",
+        data: {
+          end: "2024-03-13T06:35:00Z",
+        },
+      },
+    ],
+  },
 ];
