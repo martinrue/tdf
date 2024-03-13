@@ -198,4 +198,75 @@ const entries = [
       },
     ],
   },
+  {
+    date: "2024-03-12",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "video",
+        cost: 55,
+        title: "🎥 &nbsp; Our last day in Hanoi",
+        data: {
+          mp4: "/entries/24-03-12/hanoi-video2.mp4",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 100,
+        title: "📸 &nbsp;We're going to miss this place",
+        data: {
+          id: "ab0aa40932bc4e7193fbdf5c01d65e9d",
+          images: [{ url: "/entries/24-03-12/1.jpeg" }, { url: "/entries/24-03-12/2.jpeg" }, { url: "/entries/24-03-12/3.jpeg" }, { url: "/entries/24-03-12/4.jpeg" }, { url: "/entries/24-03-12/6.jpeg" }, { url: "/entries/24-03-12/5.jpeg" }],
+        },
+      },
+      {
+        type: "text",
+        cost: 200,
+        title: "⚡️ Our verdict on Hanoi",
+        data: {
+          body: "After the inital culture shock of this chaotic city, we've grown very fond of Hanoi. It's full of literally thousands of amazing coffee shops, unlike anything we've experienced before. It's a great city for remote work! But the plan was never to stay, so the adventure continues.",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-03-13",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "image",
+        cost: 0,
+        title: "📍 Oh hey, Da Nang!",
+        data: {
+          url: "/entries/24-03-13/han-dad.jpg",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 855,
+        title: "📸 &nbsp;We love our little apartment",
+        data: {
+          id: "9e6340669a5d47a1af3ec80c7d868191",
+          images: [{ url: "/entries/24-03-13/1.jpeg" }, { url: "/entries/24-03-13/2.jpeg" }, { url: "/entries/24-03-13/3.jpeg" }],
+        },
+      },
+      {
+        type: "text",
+        cost: 100,
+        title: "⚡️ First impressions of Da Nang",
+        data: {
+          body: "So far we're LOVING it here! We've only been here an afternoon and we've already seen the beach, soaked up some rays and found some cool hangout spots. This is what we've always imagined our digital nomad life to look like. We can't wait for this next month! ",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 120,
+        title: "📸 &nbsp;Beach life starts here!",
+        data: {
+          id: "11adcc070c5f4efb8eebbed2dc41b034",
+          images: [{ url: "/entries/24-03-13/4.jpeg" }, { url: "/entries/24-03-13/5.jpeg" }, { url: "/entries/24-03-13/6.jpeg" }, { url: "/entries/24-03-13/8.jpeg" }, { url: "/entries/24-03-13/7.jpeg" }, { url: "/entries/24-03-13/9.jpeg" }],
+        },
+      },
+    ],
+  },
 ];
