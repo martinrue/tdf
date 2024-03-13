@@ -204,7 +204,7 @@ const entries = [
     items: [
       {
         type: "video",
-        cost: 55,
+        cost: 155,
         title: "🎥 &nbsp; Our last day in Hanoi",
         data: {
           mp4: "/entries/24-03-12/hanoi-video2.mp4",
@@ -212,7 +212,7 @@ const entries = [
       },
       {
         type: "gallery",
-        cost: 100,
+        cost: 200,
         title: "📸 &nbsp;We're going to miss this place",
         data: {
           id: "ab0aa40932bc4e7193fbdf5c01d65e9d",
@@ -221,10 +221,10 @@ const entries = [
       },
       {
         type: "text",
-        cost: 200,
+        cost: 0,
         title: "⚡️ Our verdict on Hanoi",
         data: {
-          body: "After the inital culture shock of this chaotic city, we've grown very fond of Hanoi. It's full of literally thousands of amazing coffee shops, unlike anything we've experienced before. It's a great city for remote work! But the plan was never to stay, so the adventure continues.",
+          body: "After the inital culture shock of this chaotic city, we've grown very fond of Hanoi. It's full of literally thousands of amazing coffee shops, unlike anything we've experienced before. It's a great city for remote work! But Hanoi was just the first stop, so let the adventure continue.",
         },
       },
     ],
@@ -244,7 +244,7 @@ const entries = [
       {
         type: "gallery",
         cost: 855,
-        title: "📸 &nbsp;We love our little apartment",
+        title: "📸 &nbsp;We love our new apartment",
         data: {
           id: "1d42372833f84d42b6f77cd26fae6936",
           images: [{ url: "/entries/24-03-13/1.jpeg" }, { url: "/entries/24-03-13/2.jpeg" }, { url: "/entries/24-03-13/3.jpeg" }],
@@ -252,15 +252,15 @@ const entries = [
       },
       {
         type: "text",
-        cost: 100,
+        cost: 0,
         title: "⚡️ First impressions of Da Nang",
         data: {
-          body: "So far we're LOVING it here! We've only been here an afternoon and we've already seen the beach, soaked up some rays and found some cool hangout spots. This is what we've always imagined our digital nomad life to look like. We can't wait for this next month! ",
+          body: "So far we're LOVING it here! We've only been here an afternoon and we've already seen the beach, soaked up some rays and found some cool hangout spots. This is what we always imagined our digital nomad life to look like. We're really looking forward to making this place home! ",
         },
       },
       {
         type: "gallery",
-        cost: 120,
+        cost: 220,
         title: "📸 &nbsp;Beach life starts here!",
         data: {
           id: "ef9a4ecf8fe344bdb736dddfdf92beb4",
