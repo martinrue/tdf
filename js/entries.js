@@ -269,4 +269,59 @@ const entries = [
       },
     ],
   },
+  {
+    date: "2024-03-16",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 10,
+        title: "📸 &nbsp;Back in business!",
+        data: {
+          id: "2c98444419d941beaf6af539fae47f54",
+          images: [{ url: "/entries/24-03-16/1.jpeg" }, { url: "/entries/24-03-16/2.jpeg" }, { url: "/entries/24-03-16/3.jpeg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-03-18",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ The community here is so damn good",
+        data: {
+          body: "In our first week in Da Nang we've been making a special effort to attend many of the cool events in the city. From art classes and startup events to joining a brand new co-working community, we have already met tons of cool people and made plenty of new friends. We're blown away by how much of an amazing community exists in this city.",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 0,
+        title: "📸 &nbsp; So many cool people",
+        data: {
+          id: "e689416c4d1e4197bc4c888237f06340",
+          images: [{ url: "/entries/24-03-18/1.jpeg" }, { url: "/entries/24-03-18/2.jpeg" }, { url: "/entries/24-03-18/3.jpeg" }, { url: "/entries/24-03-18/4.jpeg" }, { url: "/entries/24-03-18/5.jpeg" }, { url: "/entries/24-03-18/6.jpeg" }],
+        },
+      },
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ We're now members of Coworking Danang",
+        data: {
+          body: "By random luck, a brand new co-working space opened today, so we went over to check it out. After hanging out all day (and most of the evening), we definitely just found our tribe. There are so many cool people, even on day 1. It was an easy call – we're now members... and the best bit? It's only a 3 minute walk from our apartment!",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 100,
+        title: "📸 &nbsp; What a beautiful space!",
+        data: {
+          id: "65facec9-7cab-467b-abde-d91d033c1318",
+          images: [{ url: "/entries/24-03-18/7.jpeg" }, { url: "/entries/24-03-18/8.jpeg" }, { url: "/entries/24-03-18/9.jpeg" }, { url: "/entries/24-03-18/10.jpeg" }, { url: "/entries/24-03-18/11.jpeg" }, { url: "/entries/24-03-18/12.jpeg" }],
+        },
+      },
+    ],
+  },
 ];
