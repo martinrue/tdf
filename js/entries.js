@@ -324,4 +324,21 @@ const entries = [
       },
     ],
   },
+  {
+    date: "2024-03-20",
+    authors: ["martin"],
+    items: [
+      {
+        type: "blog",
+        cost: 0,
+        title: "💬 Reflections on Danang",
+        data: {
+          header: "What I'm doing now",
+          linkText: "martinrue.com/now",
+          linkUrl: "https://martinrue.com/now/",
+          preview: "I'm writing this on a warm Wednesday afternoon in Da Nang, Vietnam. I moved here 1 week ago.",
+        },
+      },
+    ],
+  },
 ];
