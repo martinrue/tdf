@@ -330,13 +330,42 @@ const entries = [
     items: [
       {
         type: "blog",
-        cost: 0,
+        cost: 326,
         title: "💬 Reflections on Danang",
         data: {
           header: "What I'm doing now",
           linkText: "martinrue.com/now",
           linkUrl: "https://martinrue.com/now/",
           preview: "I'm writing this on a warm Wednesday afternoon in Da Nang, Vietnam. I moved here 1 week ago.",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-03-24",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "video",
+        cost: 10,
+        title: "🎥 &nbsp; Holi Festival 2024",
+        data: {
+          mp4: "/entries/24-03-24/holi.mp4",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-03-28",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 237,
+        title: "📸 &nbsp; Life lately",
+        data: {
+          id: "e689416c4d1e4197bc4c888237f06340",
+          images: [{ url: "/entries/24-03-28/1.jpeg" }, { url: "/entries/24-03-28/2.jpeg" }, { url: "/entries/24-03-28/3.jpeg" }, { url: "/entries/24-03-28/4.jpeg" }, { url: "/entries/24-03-28/5.jpeg" }, { url: "/entries/24-03-28/6.jpeg" }],
         },
       },
     ],
