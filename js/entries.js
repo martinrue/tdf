@@ -331,7 +331,7 @@ const entries = [
       {
         type: "blog",
         cost: 326,
-        title: "💬 Reflections on Danang",
+        title: "💬 Reflections on Da Nang",
         data: {
           header: "What I'm doing now",
           linkText: "martinrue.com/now",
@@ -347,7 +347,7 @@ const entries = [
     items: [
       {
         type: "video",
-        cost: 10,
+        cost: 100,
         title: "🎥 &nbsp; Holi Festival 2024",
         data: {
           mp4: "/entries/24-03-24/holi.mp4",
