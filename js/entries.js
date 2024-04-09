@@ -370,4 +370,65 @@ const entries = [
       },
     ],
   },
+  {
+    date: "2024-04-02",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ I've infultrated the backpacker scene!",
+        data: {
+          body: "I posted on social media that we've moved to Da Nang, and by pure chance someone I've never met commented the name of a girl I'd also never met named Hannah. Turns out she's also a brand designer passing through Da Nang. I went to meet her that same day, she invited me along with her and a few girls from her hostel to Hoi An.",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 100,
+        title: "📸 &nbsp; Girls trip to Hoi An",
+        data: {
+          id: "e689416c4d1e4197bc4c888237f06340",
+          images: [{ url: "/entries/24-04-02/1.jpeg" }, { url: "/entries/24-04-02/2.jpeg" }, { url: "/entries/24-04-02/3.jpeg" }, { url: "/entries/24-04-02/4.jpeg" }, { url: "/entries/24-04-02/5.jpeg" }, { url: "/entries/24-04-02/6.jpeg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-04-02",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ Back to Da Nang!",
+        data: {
+          body: "The other girls are moving on in their travels, but luckily Hannah is coming back to Da Nang for a while. We've got lots in common, so I'm looking forward to more co-working, gym sessions and late night chats before she goes on her next adventure. ",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 0,
+        title: "📸 &nbsp; We're besties now",
+        data: {
+          id: "e689416c4d1e4197bc4c888237f06340",
+          images: [{ url: "/entries/24-04-04/7.jpeg" }, { url: "/entries/24-04-04/8.jpeg" }, { url: "/entries/24-04-04/9.jpeg" }, { url: "/entries/24-04-04/10.jpeg" }, { url: "/entries/24-04-04/11.jpeg" }, { url: "/entries/24-04-04/12.jpeg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-04-08",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 698,
+        title: "📸 &nbsp; We're having the best time attending events and learning vietnamese. We've even run our own werewolf game and sang karaoke!",
+        data: {
+          id: "e689416c4d1e4197bc4c888237f06340",
+          images: [{ url: "/entries/24-04-08/1.jpeg" }, { url: "/entries/24-04-08/2.jpeg" }, { url: "/entries/24-04-08/3.jpeg" }, { url: "/entries/24-04-08/4.jpeg" }, { url: "/entries/24-04-08/5.jpeg" }, { url: "/entries/24-04-08/6.jpeg" }],
+        },
+      },
+    ],
+  },
 ];
