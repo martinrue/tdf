@@ -78,7 +78,14 @@ const entries = [
         title: "📸 &nbsp;We're loving it here so far.",
         data: {
           id: "9e6340669a5d47a1af3ec80c7d868191",
-          images: [{ url: "/entries/24-02-27/1.jpeg" }, { url: "/entries/24-02-27/2.jpeg" }, { url: "/entries/24-02-27/3.jpeg" }, { url: "/entries/24-02-27/4.jpeg" }, { url: "/entries/24-02-27/5.jpeg" }, { url: "/entries/24-02-27/6.jpeg" }],
+          images: [
+            { url: "/entries/24-02-27/1.jpeg" },
+            { url: "/entries/24-02-27/2.jpeg" },
+            { url: "/entries/24-02-27/3.jpeg" },
+            { url: "/entries/24-02-27/4.jpeg" },
+            { url: "/entries/24-02-27/5.jpeg" },
+            { url: "/entries/24-02-27/6.jpeg" },
+          ],
         },
       },
     ],
@@ -103,7 +110,14 @@ const entries = [
         title: "📸 &nbsp;More city highlights!",
         data: {
           id: "3da457dcace74cebac203add5bfc8aa9",
-          images: [{ url: "/entries/24-02-29/1.jpeg" }, { url: "/entries/24-02-29/2.jpeg" }, { url: "/entries/24-02-29/3.jpeg" }, { url: "/entries/24-02-29/4.jpeg" }, { url: "/entries/24-02-29/6.jpeg" }, { url: "/entries/24-02-29/5.jpeg" }],
+          images: [
+            { url: "/entries/24-02-29/1.jpeg" },
+            { url: "/entries/24-02-29/2.jpeg" },
+            { url: "/entries/24-02-29/3.jpeg" },
+            { url: "/entries/24-02-29/4.jpeg" },
+            { url: "/entries/24-02-29/6.jpeg" },
+            { url: "/entries/24-02-29/5.jpeg" },
+          ],
         },
       },
       {
@@ -216,7 +230,14 @@ const entries = [
         title: "📸 &nbsp;We're going to miss this place",
         data: {
           id: "ab0aa40932bc4e7193fbdf5c01d65e9d",
-          images: [{ url: "/entries/24-03-12/1.jpeg" }, { url: "/entries/24-03-12/2.jpeg" }, { url: "/entries/24-03-12/3.jpeg" }, { url: "/entries/24-03-12/4.jpeg" }, { url: "/entries/24-03-12/6.jpeg" }, { url: "/entries/24-03-12/5.jpeg" }],
+          images: [
+            { url: "/entries/24-03-12/1.jpeg" },
+            { url: "/entries/24-03-12/2.jpeg" },
+            { url: "/entries/24-03-12/3.jpeg" },
+            { url: "/entries/24-03-12/4.jpeg" },
+            { url: "/entries/24-03-12/6.jpeg" },
+            { url: "/entries/24-03-12/5.jpeg" },
+          ],
         },
       },
       {
@@ -224,7 +245,7 @@ const entries = [
         cost: 0,
         title: "⚡️ Our verdict on Hanoi",
         data: {
-          body: "After the inital culture shock of this chaotic city, we've grown very fond of Hanoi. It's full of literally thousands of amazing coffee shops, unlike anything we've experienced before. It's a great city for remote work! But Hanoi was just the first stop, so let the adventure continue.",
+          body: "After the initial culture shock of this chaotic city, we've grown very fond of Hanoi. It's full of literally thousands of amazing coffee shops, unlike anything we've experienced before. It's a great city for remote work! But Hanoi was just the first stop, so let the adventure continue.",
         },
       },
     ],
@@ -264,7 +285,14 @@ const entries = [
         title: "📸 &nbsp;Beach life starts here!",
         data: {
           id: "ef9a4ecf8fe344bdb736dddfdf92beb4",
-          images: [{ url: "/entries/24-03-13/4.jpeg" }, { url: "/entries/24-03-13/5.jpeg" }, { url: "/entries/24-03-13/6.jpeg" }, { url: "/entries/24-03-13/8.jpeg" }, { url: "/entries/24-03-13/7.jpeg" }, { url: "/entries/24-03-13/9.jpeg" }],
+          images: [
+            { url: "/entries/24-03-13/4.jpeg" },
+            { url: "/entries/24-03-13/5.jpeg" },
+            { url: "/entries/24-03-13/6.jpeg" },
+            { url: "/entries/24-03-13/8.jpeg" },
+            { url: "/entries/24-03-13/7.jpeg" },
+            { url: "/entries/24-03-13/9.jpeg" },
+          ],
         },
       },
     ],
@@ -301,8 +329,15 @@ const entries = [
         cost: 0,
         title: "📸 &nbsp; So many cool people",
         data: {
-          id: "e689416c4d1e4197bc4c888237f06340",
-          images: [{ url: "/entries/24-03-18/1.jpeg" }, { url: "/entries/24-03-18/2.jpeg" }, { url: "/entries/24-03-18/3.jpeg" }, { url: "/entries/24-03-18/4.jpeg" }, { url: "/entries/24-03-18/5.jpeg" }, { url: "/entries/24-03-18/6.jpeg" }],
+          id: "720f06f7ef1e4e609692e5f70ecc775e",
+          images: [
+            { url: "/entries/24-03-18/1.jpeg" },
+            { url: "/entries/24-03-18/2.jpeg" },
+            { url: "/entries/24-03-18/3.jpeg" },
+            { url: "/entries/24-03-18/4.jpeg" },
+            { url: "/entries/24-03-18/5.jpeg" },
+            { url: "/entries/24-03-18/6.jpeg" },
+          ],
         },
       },
       {
@@ -319,7 +354,14 @@ const entries = [
         title: "📸 &nbsp; What a beautiful space!",
         data: {
           id: "65facec9-7cab-467b-abde-d91d033c1318",
-          images: [{ url: "/entries/24-03-18/7.jpeg" }, { url: "/entries/24-03-18/8.jpeg" }, { url: "/entries/24-03-18/9.jpeg" }, { url: "/entries/24-03-18/10.jpeg" }, { url: "/entries/24-03-18/11.jpeg" }, { url: "/entries/24-03-18/12.jpeg" }],
+          images: [
+            { url: "/entries/24-03-18/7.jpeg" },
+            { url: "/entries/24-03-18/8.jpeg" },
+            { url: "/entries/24-03-18/9.jpeg" },
+            { url: "/entries/24-03-18/10.jpeg" },
+            { url: "/entries/24-03-18/11.jpeg" },
+            { url: "/entries/24-03-18/12.jpeg" },
+          ],
         },
       },
     ],
@@ -365,7 +407,14 @@ const entries = [
         title: "📸 &nbsp; Life lately",
         data: {
           id: "e689416c4d1e4197bc4c888237f06340",
-          images: [{ url: "/entries/24-03-28/1.jpeg" }, { url: "/entries/24-03-28/2.jpeg" }, { url: "/entries/24-03-28/3.jpeg" }, { url: "/entries/24-03-28/4.jpeg" }, { url: "/entries/24-03-28/5.jpeg" }, { url: "/entries/24-03-28/6.jpeg" }],
+          images: [
+            { url: "/entries/24-03-28/1.jpeg" },
+            { url: "/entries/24-03-28/2.jpeg" },
+            { url: "/entries/24-03-28/3.jpeg" },
+            { url: "/entries/24-03-28/4.jpeg" },
+            { url: "/entries/24-03-28/5.jpeg" },
+            { url: "/entries/24-03-28/6.jpeg" },
+          ],
         },
       },
     ],
@@ -388,7 +437,14 @@ const entries = [
         title: "📸 &nbsp; Girls trip to Hoi An",
         data: {
           id: "b9d2389372724ccd8317670d5b6419ce",
-          images: [{ url: "/entries/24-04-02/1.jpeg" }, { url: "/entries/24-04-02/2.jpeg" }, { url: "/entries/24-04-02/3.jpeg" }, { url: "/entries/24-04-02/4.jpeg" }, { url: "/entries/24-04-02/5.jpeg" }, { url: "/entries/24-04-02/6.jpeg" }],
+          images: [
+            { url: "/entries/24-04-02/1.jpeg" },
+            { url: "/entries/24-04-02/2.jpeg" },
+            { url: "/entries/24-04-02/3.jpeg" },
+            { url: "/entries/24-04-02/4.jpeg" },
+            { url: "/entries/24-04-02/5.jpeg" },
+            { url: "/entries/24-04-02/6.jpeg" },
+          ],
         },
       },
     ],
@@ -411,7 +467,14 @@ const entries = [
         title: "📸 &nbsp; We're besties now",
         data: {
           id: "47b574253d16470f936e2feb35b6c5e1",
-          images: [{ url: "/entries/24-04-04/7.jpeg" }, { url: "/entries/24-04-04/8.jpeg" }, { url: "/entries/24-04-04/9.jpeg" }, { url: "/entries/24-04-04/10.jpeg" }, { url: "/entries/24-04-04/11.jpeg" }, { url: "/entries/24-04-04/12.jpeg" }],
+          images: [
+            { url: "/entries/24-04-04/7.jpeg" },
+            { url: "/entries/24-04-04/8.jpeg" },
+            { url: "/entries/24-04-04/9.jpeg" },
+            { url: "/entries/24-04-04/10.jpeg" },
+            { url: "/entries/24-04-04/11.jpeg" },
+            { url: "/entries/24-04-04/12.jpeg" },
+          ],
         },
       },
     ],
@@ -426,7 +489,137 @@ const entries = [
         title: "📸 &nbsp; We're having the best time attending events and learning vietnamese. We've even run our own werewolf game and sang karaoke!",
         data: {
           id: "a014749176c94f5ab11ee7b516367794",
-          images: [{ url: "/entries/24-04-08/1.jpeg" }, { url: "/entries/24-04-08/2.jpeg" }, { url: "/entries/24-04-08/3.jpeg" }, { url: "/entries/24-04-08/4.jpeg" }, { url: "/entries/24-04-08/5.jpeg" }, { url: "/entries/24-04-08/6.jpeg" }],
+          images: [
+            { url: "/entries/24-04-08/1.jpeg" },
+            { url: "/entries/24-04-08/2.jpeg" },
+            { url: "/entries/24-04-08/3.jpeg" },
+            { url: "/entries/24-04-08/4.jpeg" },
+            { url: "/entries/24-04-08/5.jpeg" },
+            { url: "/entries/24-04-08/6.jpeg" },
+          ],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-04-14",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "feature",
+        cost: 0,
+        title: "👩🏼‍💻 Journee: Launch day!",
+        data: {
+          image: "/entries/24-04-14/journee-card.jpg",
+          text: "I'm so excited to finally be launching Journee, my online prompted journaling platform. I've worked on the design and Martin built it – and now it's finally out there in the world. Basically, The whole point of Journee is that it’s like a prompted journal, just super personalised. When you write a journal entry, Journee analyses what you've written to give you another prompt, so you can dig deeper and deeper into self-discovery. Launching was the easy part, now I've actually got to make it happen!",
+          linkText: "journeeapp.com",
+          linkUrl: "https://journeeapp.com/tdf",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-04-17",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 500,
+        title: "📸 We've been saying goodbye to some friends.",
+        data: {
+          id: "850ec556717e46dab299c4eddb428a4b",
+          images: [{ url: "/entries/24-04-17/1.jpeg" }, { url: "/entries/24-04-17/2.jpeg" }, { url: "/entries/24-04-17/3.jpeg" }],
+        },
+      },
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ Until we meet again.",
+        data: {
+          body: "We're already seeing the first wave of awesome people moving on to their next adventure. At the same time, in the digital nomad community, it's never goodbye for good, it's more like a 'see you later!'. ",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-04-20",
+    authors: ["elizabeth", "martin"],
+    items: [
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ Cham islands trip.",
+        data: {
+          body: "This weekend we're heading to a remote island off the coast of Da Nang. We're going together with 15 other people from our coworking family to explore the secluded beaches and go snorkeling!",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 200,
+        title: "📸 &nbsp; What a stunning place!",
+        data: {
+          id: "67ed5435dd0a406a84f72bbc2f5e8865",
+          images: [
+            { url: "/entries/24-04-20/1.jpeg" },
+            { url: "/entries/24-04-20/2.jpeg" },
+            { url: "/entries/24-04-20/3.jpeg" },
+            { url: "/entries/24-04-20/4.jpeg" },
+            { url: "/entries/24-04-20/5.jpeg" },
+            { url: "/entries/24-04-20/6.jpeg" },
+          ],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-04-23",
+    authors: ["martin"],
+    items: [
+      {
+        type: "gallery",
+        cost: 300,
+        title: "📸 &nbsp; So... I bought a bike.",
+        data: {
+          id: "3af821a31c1e40f3b2f096e231f4b9a6",
+          images: [{ url: "/entries/24-04-23/1.jpeg" }, { url: "/entries/24-04-23/2.jpeg" }, { url: "/entries/24-04-23/3.jpeg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-03-01",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "tickets",
+        cost: 30,
+        title: "✈️ &nbsp; A quick trip to Huế",
+        data: {
+          url: "/entries/24-04-26/tickets.png",
+        },
+      },
+      {
+        type: "video",
+        cost: 100,
+        title: "🎥 &nbsp; The most beautiful train journey.",
+        data: {
+          mp4: "/entries/24-04-26/hue.mp4",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-02-29",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "youtube",
+        cost: 1500,
+        title: "🎥 &nbsp;Life in Đà Nẵng",
+        data: {
+          body: "In this vlog we share all the reasons why we came here and what our daily life in Da Nang is like.",
+          thumbnail: "/entries/24-04-29/da-nang-vlog.jpeg",
+          url: "https://www.youtube.com/watch?v=4J2uZqipzfY",
         },
       },
     ],
