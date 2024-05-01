@@ -41,7 +41,7 @@ const renderBlog = ({ title, cost, data: { header, linkText, linkUrl, preview } 
     </div>`;
 };
 
-const renderVideo = ({ title, cost, data: { mp4, mov, webm } }) => {
+const renderVideo = ({ title, cost, data: { mp4, mov, webm, thumbnail } }) => {
   const movSource = mov ? `<source src="${mov}" type="video/mp4" />` : "";
   const mp4Source = mp4 ? `<source src="${mp4}" type="video/mp4" />` : "";
   const webmSource = webm ? `<source src="${webm}" type="video/webm" />` : "";
@@ -52,7 +52,7 @@ const renderVideo = ({ title, cost, data: { mp4, mov, webm } }) => {
       <div class="video">
         <div class="play-button"></div>
 
-        <video playsinline>
+        <video playsinline preload="none" poster="${thumbnail}">
           ${movSource}
           ${mp4Source}
           ${webmSource}
@@ -91,6 +91,8 @@ const renderTickets = ({ title, cost, data: { url } }) => {
 };
 
 const renderFeature = ({ title, cost, data: { image, text, linkText, linkUrl } }) => {
+  text = text.replace(/\n/g, "<br/>");
+
   return `
     <div class="item post-feature" data-cost="${cost}">
       <div class="title">${title}</div>
