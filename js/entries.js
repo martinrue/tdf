@@ -511,7 +511,7 @@ const entries = [
         title: "👩🏼‍💻 Journee: Launch day!",
         data: {
           image: "/entries/24-04-14/journee-card.jpg",
-          text: "I'm so excited to finally be launching Journee, my online prompted journaling platform. I've worked on the design and Martin built it – and now it's finally out there in the world. Basically, The whole point of Journee is that it’s like a prompted journal, just super personalised. When you write a journal entry, Journee analyses what you've written to give you another prompt, so you can dig deeper and deeper into self-discovery. Launching was the easy part, now I've actually got to make it happen!",
+          text: "I'm so excited to finally be launching Journee, my online prompted journaling app. I've worked on the design and Martin built it – and now it's finally out there in the world. Basically, the whole point of Journee is that it’s like a prompted journal, just super personalised. When you write a journal entry, Journee analyses what you've written to give you another prompt, so you can dig deeper and deeper into self-discovery. Launching was the easy part, now it's time to grow it!",
           linkText: "journeeapp.com",
           linkUrl: "https://journeeapp.com/tdf",
         },
