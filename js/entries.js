@@ -590,7 +590,7 @@ const entries = [
     ],
   },
   {
-    date: "2024-03-01",
+    date: "2024-04-26",
     authors: ["elizabeth"],
     items: [
       {
@@ -613,7 +613,7 @@ const entries = [
     ],
   },
   {
-    date: "2024-02-29",
+    date: "2024-04-29",
     authors: ["martin", "elizabeth"],
     items: [
       {
