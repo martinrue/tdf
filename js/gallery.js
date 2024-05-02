@@ -28,8 +28,13 @@ const galleryUpdateNavIcons = () => {
   }
 };
 
+const getFullImagePath = (path) => {
+  const parts = path.split(".");
+  return parts[0] + ".full." + parts[1];
+};
+
 const galleryUpdateImage = () => {
-  $galleryImg.src = galleryImages[galleryImage].url;
+  $galleryImg.src = getFullImagePath(galleryImages[galleryImage].url);
   $galleryLink.href = galleryImages[galleryImage].ig;
   $galleryIGLink.style.visibility = galleryImages[galleryImage].ig ? "visible" : "hidden";
 
