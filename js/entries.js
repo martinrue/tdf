@@ -379,7 +379,7 @@ const entries = [
         data: {
           header: "What I'm doing now",
           linkText: "martinrue.com/now",
-          linkUrl: "https://martinrue.com/now/",
+          linkUrl: "https://martinrue.com/now/past/24-03/",
           preview: "I'm writing this on a warm Wednesday afternoon in Da Nang, Vietnam. I moved here 1 week ago.",
         },
       },
@@ -624,6 +624,65 @@ const entries = [
           body: "In this vlog we share all the reasons why we came here and what our daily life in Da Nang is like.",
           thumbnail: "/entries/24-04-29/da-nang-vlog.jpeg",
           url: "https://www.youtube.com/watch?v=4J2uZqipzfY",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-05-01",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "youtube",
+        cost: 200,
+        title: "🎥 &nbsp;24 hours on the Cham Islands",
+        data: {
+          body: "Together with everyone from our co-working space, we spent 24 hours on a tiny island off the coast of Đà Nẵng.",
+          thumbnail: "/entries/24-05-01/cham.jpeg",
+          url: "https://www.youtube.com/watch?v=WvZ5amwkvRc",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-05-07",
+    authors: ["martin"],
+    items: [
+      {
+        type: "gallery",
+        cost: 300,
+        title: "📸 &nbsp; I took a little trip to to Hội An.",
+        data: {
+          id: "4d185f45aefa4d9ea62902976fe7149f",
+          images: [{ url: "/entries/24-05-07/1.jpeg" }, { url: "/entries/24-05-07/2.jpeg" }, { url: "/entries/24-05-07/3.jpeg" }],
+        },
+      },
+      {
+        type: "blog",
+        cost: 100,
+        title: "💬 Time to think.",
+        data: {
+          header: "What I'm doing now",
+          linkText: "martinrue.com/now",
+          linkUrl: "https://martinrue.com/now/",
+          preview: "I'm writing this update from a bathtub – one of my favourite spots to get some serious thinking done.",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-05-11",
+    authors: ["martin"],
+    items: [
+      {
+        type: "feature",
+        cost: 0,
+        title: "👨🏻‍💻 I've updated my website.",
+        data: {
+          image: "/entries/24-05-11/website.jpeg",
+          text: "I've given my personal website a refresh. It's simpler and more concise, so check it out if you're interested!",
+          linkText: "martinrue.com",
+          linkUrl: "https://martinrue.com/",
         },
       },
     ],
