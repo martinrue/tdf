@@ -551,7 +551,7 @@ const entries = [
       {
         type: "text",
         cost: 0,
-        title: "⚡️ Cham islands trip.",
+        title: "⚡️ Chàm islands trip.",
         data: {
           body: "This weekend we're heading to a remote island off the coast of Da Nang. We're going together with 15 other people from our coworking family to explore the secluded beaches and go snorkeling!",
         },
@@ -635,7 +635,7 @@ const entries = [
       {
         type: "youtube",
         cost: 200,
-        title: "🎥 &nbsp;24 hours on the Cham Islands",
+        title: "🎥 &nbsp;24 hours on the Chàm Islands",
         data: {
           body: "Together with everyone from our co-working space, we spent 24 hours on a tiny island off the coast of Đà Nẵng.",
           thumbnail: "/entries/24-05-01/cham.jpeg",
@@ -660,7 +660,7 @@ const entries = [
       {
         type: "blog",
         cost: 100,
-        title: "💬 Time to think.",
+        title: "💬 Here's a little /now update.",
         data: {
           header: "What I'm doing now",
           linkText: "martinrue.com/now",
@@ -677,10 +677,10 @@ const entries = [
       {
         type: "feature",
         cost: 0,
-        title: "👨🏻‍💻 I've updated my website.",
+        title: "👨🏻‍💻 I finally gave my personal site a little love.",
         data: {
           image: "/entries/24-05-11/website.jpeg",
-          text: "I've given my personal website a refresh. It's simpler and more concise, so check it out if you're interested!",
+          text: "I've given my personal website a bit of a refresh. I think it now better explains who I am and what I'm working on, while staying uber minimal.",
           linkText: "martinrue.com",
           linkUrl: "https://martinrue.com/",
         },
