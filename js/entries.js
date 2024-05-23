@@ -596,7 +596,7 @@ const entries = [
       {
         type: "tickets",
         cost: 30,
-        title: "✈️ &nbsp; A quick trip to Huế",
+        title: "🚂 &nbsp; A quick trip to Huế",
         data: {
           url: "/entries/24-04-26/tickets.png",
         },
@@ -683,6 +683,89 @@ const entries = [
           text: "I've given my personal website a bit of a refresh. I think it now better explains who I am and what I'm working on, while staying uber minimal.",
           linkText: "martinrue.com",
           linkUrl: "https://martinrue.com/",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-05-20",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "feature",
+        cost: 0,
+        title: "👩🏼‍💻 I finally have my own site too!",
+        data: {
+          image: "/entries/24-05-20/ek-og.jpeg",
+          text: "Martin has very generously let me use his code to create my own version of his site. So for the last week I've been getting stuck in and solidifying my programming knowledge from the last few months. I'm really starting to get it now! What I'm enjoying most about learning to code is being able to sit with problems for a long time and the joy I get out of finally solving them. Can't wait to do some more soon, but for now it's back to design.",
+          linkText: "elizabethkershaw.co.uk",
+          linkUrl: "https://elizabethkershaw.co.uk/",
+        },
+      },
+      {
+        type: "blog",
+        cost: 100,
+        title: "💬 I've also writtn my first /now update.",
+        data: {
+          header: "What I'm doing now",
+          linkText: "elizabethkershaw.co.uk/now",
+          linkUrl: "https://elizabethkershaw.co.uk/now/",
+          preview: "It's currently raining outside, and the calming sound of this tropical downpour seemed like the perfect backdrop to write a little update on what's been happening in my life.",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-05-22",
+    authors: ["elizabeth", "martin"],
+    items: [
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ Border run time.",
+        data: {
+          body: "This week we're doing what they call a 'border run', which means we've been in Asia for 3 months now! To renew our visas we have to get on a bus, cross the Laos border, wait for new visas, and travel all the way back on the same day. We paid a visa company to organise the entire thing for us (and 30 other europeans) and even though it was a long day, everything went smoothly and it was a great experience!",
+        },
+      },
+      {
+        type: "tickets",
+        cost: 400,
+        title: "🚎 &nbsp; Got our shiny new visas!",
+        data: {
+          url: "/entries/24-05-22/visas.png",
+        },
+      },
+      {
+        type: "video",
+        cost: 100,
+        title: "🎥 &nbsp; Here's how it went.",
+        data: {
+          mp4: "/entries/24-05-22/visa-run.mp4",
+          thumbnail: "/entries/24-05-22/visa-run.jpeg",
+        },
+      },
+      {
+        type: "timer",
+        cost: 0,
+        title: "⏱️ Time left in Vietnam",
+        data: {
+          end: "2024-08-20T06:00:00Z",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-05-23",
+    authors: ["martin"],
+    items: [
+      {
+        type: "youtube",
+        cost: 0,
+        title: "🎥 &nbsp; A vlog from my trip to Hội An.",
+        data: {
+          body: "I took a few days off to go on a solo retreat to the beautiful town of Hội An. I spent the time riding around and just being alone with my own thoughts. It was awesome.",
+          thumbnail: "/entries/24-05-23/hoi-an-vlog.jpeg",
+          url: "https://www.youtube.com/watch?v=nSkcQyXH5yk",
         },
       },
     ],
