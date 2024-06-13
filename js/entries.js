@@ -770,4 +770,105 @@ const entries = [
       },
     ],
   },
+  {
+    date: "2024-05-31",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ We moved apartments!",
+        data: {
+          body: "After 3 months in our last apartment, we felt it was time for a change of scenery! This new apartment is only a few streets over, but is nicer, has a pool and is literally half the price of our last one!",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 1200,
+        title: "📸 &nbsp; Apartment No.2!",
+        data: {
+          id: "7ac8cd8b3bd640f6b3cc5b162629605a",
+          images: [
+            { url: "/entries/24-05-31/1.jpeg" },
+            { url: "/entries/24-05-31/2.jpeg" },
+            { url: "/entries/24-05-31/3.jpeg" },
+            { url: "/entries/24-05-31/4.jpeg" },
+            { url: "/entries/24-05-31/5.jpeg" },
+            { url: "/entries/24-05-31/6.jpeg" },
+          ],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-06-03",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 400,
+        title: "📸 &nbsp; We've been attending more farewell dinners, making use of the pool and getting work done.",
+        data: {
+          id: "4aa170d6a88349abbaee6165d3445605",
+          images: [
+            { url: "/entries/24-06-03/1.jpeg" },
+            { url: "/entries/24-06-03/2.jpeg" },
+            { url: "/entries/24-06-03/3.jpeg" },
+            { url: "/entries/24-06-03/4.jpeg" },
+            { url: "/entries/24-06-03/5.jpeg" },
+            { url: "/entries/24-06-03/6.jpeg" },
+          ],
+        },
+      },
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ A Digital Nomad Hack",
+        data: {
+          body: "Finding new friends out here is overwhelming, because there's so many people to meet. Our new favourite way to make new friends is speak to everyone at our current friends' goodbye dinners. We've met the coolest people this way, and we always joke that for every one friend we lose, they replace themselves with 2-3 new ones 🤣",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-06-08",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "video",
+        cost: 20,
+        title: "🎥 &nbsp; We went to the Đà Nẵng International Fireworks Festival: Vietnam vs. France!",
+        data: {
+          mp4: "/entries/24-06-08/firework-2.mp4",
+          thumbnail: "/entries/24-06-08/firework-thumb.jpeg",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 20,
+        title: "📸 &nbsp; And went out for drinks at Maia after!",
+        data: {
+          id: "271f99ce83c643b19f7cd7a3fedfbf1d",
+          images: [{ url: "/entries/24-06-08/1.jpeg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-06-13",
+    authors: ["martin"],
+    items: [
+      {
+        type: "feature",
+        cost: 0,
+        title: "👨🏻‍💻 Introducing: Ling-oh!",
+        data: {
+          image: "/entries/24-06-13/lingoh.jpeg",
+          text: "I'm starting a newsletter! If you love language, it's for you. I'll be sharing tips, insights and inspiration every two weeks. Please sign up to catch the first issue.",
+          linkText: "lingoh.news",
+          linkUrl: "https://lingoh.news/",
+        },
+      },
+    ],
+  },
 ];
