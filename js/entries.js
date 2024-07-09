@@ -694,7 +694,7 @@ const entries = [
       {
         type: "feature",
         cost: 0,
-        title: "👩🏼‍💻 I finally have my own site too!",
+        title: "👩🏼‍💻 I have my own site now too!",
         data: {
           image: "/entries/24-05-20/ek-og.jpeg",
           text: "Martin has very generously let me use his code to create my own version of his site. So for the last week I've been getting stuck in and solidifying my programming knowledge from the last few months. I'm really starting to get it now! What I'm enjoying most about learning to code is being able to sit with problems for a long time and the joy I get out of finally solving them. Can't wait to do some more soon, but for now it's back to design.",
@@ -867,6 +867,90 @@ const entries = [
           text: "I'm starting a newsletter! If you love language, it's for you. I'll be sharing tips, insights and inspiration every two weeks. Please sign up to catch the first issue.",
           linkText: "lingoh.news",
           linkUrl: "https://lingoh.news/",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-06-20",
+    authors: ["elizabeth", "martin"],
+    items: [
+      {
+        type: "video",
+        cost: 300,
+        title: "🎥 &nbsp; We took a trip to Hội An.",
+        data: {
+          mp4: "/entries/24-06-20/hoian.mp4",
+          thumbnail: "/entries/24-06-20/hoian.jpg",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-06-25",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ We decided on our next city.",
+        data: {
+          body: "After lots and lots and lots of deliberation, we've landed on Bangkok as our new home. We'll be staying there for one month before heading over to Chiang Mai. We can't wait to find all the cool places in this massive city!",
+        },
+      },
+      {
+        type: "tickets",
+        cost: 150,
+        title: "✈️ &nbsp;See you soon, Bangkok!",
+        data: {
+          url: "/entries/24-06-25/dadbkk.png",
+        },
+      },
+      {
+        type: "timer",
+        cost: 0,
+        title: "⏱️ Time left in Đà Nẵng",
+        data: {
+          end: "2024-08-17T09:00:00Z",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-07-01",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 400,
+        title: "📸 &nbsp;The daily grind.",
+        data: {
+          id: "7b349486ccb3445d9f0c37e3886c0067",
+          images: [{ url: "/entries/24-07-01/1.jpeg" }, { url: "/entries/24-07-01/2.jpeg" }, { url: "/entries/24-07-01/3.jpeg" }, { url: "/entries/24-07-01/4.jpeg" }],
+        },
+      },
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ We're working hard...",
+        data: {
+          body: "If you've been wondering why we're a little quieter over here at the moment, it's because we're spending every day very day working away at our projects. We've got big plans for Yakk, Journee (and now a secret third project) and there's lots to get done. But don't worry, we'll still update TDF when we do anything interesting!",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-07-07",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "youtube",
+        cost: 1500,
+        title: "🎥 &nbsp;We've been in Đà Nẵng for so long!",
+        data: {
+          body: "We thought it was time for a little update, and to show you a few new spots and what life is like here in July.",
+          thumbnail: "/entries/24-07-07/15.jpg",
+          url: "https://youtu.be/bCD1S04futE?si=g_QbVVPQxM1bLBJc",
         },
       },
     ],
