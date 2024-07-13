@@ -934,7 +934,7 @@ const entries = [
         cost: 0,
         title: "⚡️ We're working hard...",
         data: {
-          body: "If you've been wondering why we're a little quieter over here at the moment, it's because we're spending every day very day working away at our projects. We've got big plans for Yakk, Journee (and now a secret third project) and there's lots to get done. But don't worry, we'll still update TDF when we do anything interesting!",
+          body: "If you've been wondering why we're a little quieter over here at the moment, it's because we're spending every day working away at our projects. We've got big plans for Yakk, Journee (and now a secret third project) and there's lots to get done. But don't worry, we'll still update TDF when we do anything interesting!",
         },
       },
     ],
