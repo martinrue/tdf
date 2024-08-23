@@ -747,7 +747,7 @@ const entries = [
       {
         type: "timer",
         cost: 0,
-        title: "⏱️ Time left in Vietnam",
+        title: "⏱️ Time left in Vietnam.",
         data: {
           end: "2024-08-20T06:00:00Z",
         },
@@ -823,7 +823,7 @@ const entries = [
       {
         type: "text",
         cost: 0,
-        title: "⚡️ A Digital Nomad Hack",
+        title: "⚡️ A Digital Nomad Hack.",
         data: {
           body: "Finding new friends out here is overwhelming, because there's so many people to meet. Our new favourite way to make new friends is speak to everyone at our current friends' goodbye dinners. We've met the coolest people this way, and we always joke that for every one friend we lose, they replace themselves with 2-3 new ones 🤣",
         },
@@ -951,6 +951,190 @@ const entries = [
           body: "We thought it was time for a little update, and to show you a few new spots and what life is like here in July.",
           thumbnail: "/entries/24-07-07/15.jpg",
           url: "https://youtu.be/bCD1S04futE?si=g_QbVVPQxM1bLBJc",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-07-29",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 90,
+        title: "📸 &nbsp;We finally went to Ba Na hills with a cool new friend we randomly met in a coffee shop!",
+        data: {
+          id: "64c1160776f74420ba3918d6bfab01d5",
+          images: [
+            { url: "/entries/24-07-29/1.jpeg" },
+            { url: "/entries/24-07-29/2.jpeg" },
+            { url: "/entries/24-07-29/3.jpeg" },
+            { url: "/entries/24-07-29/4.jpeg" },
+            { url: "/entries/24-07-29/6.jpeg" },
+            { url: "/entries/24-07-29/5.jpeg" },
+          ],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-08-08",
+    authors: ["elizabeth", "martin"],
+    items: [
+      {
+        type: "tickets",
+        cost: 600,
+        title: "🇹🇭 &nbsp; Our Thailand DTV visas have come through and are valid for 5 years!!! How cool is that?",
+        data: {
+          url: "/entries/24-08-08/visas.png",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-08-11",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ It's our last weekend in Đà Nẵng.",
+        data: {
+          body: "We've spent the weekend doing some amazing stuff. On Saturday night we had our leaving party - a family BBQ at the cowork followed by some karaoke. Even Martin had a good singalong! On Sunday Elizabeth volunteered at a local orphanage to clean the facilities and play with the kids!",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 505,
+        title: "📸 A weekend well spent.",
+        data: {
+          id: "f9283c3be534433abf758af6ba6cbb4a",
+          images: [
+            { url: "/entries/24-08-11/1.jpeg" },
+            { url: "/entries/24-08-11/2.jpeg" },
+            { url: "/entries/24-08-11/3.jpeg" },
+            { url: "/entries/24-08-11/4.jpeg" },
+            { url: "/entries/24-08-11/6.jpeg" },
+            { url: "/entries/24-08-11/5.jpeg" },
+          ],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-08-12",
+    authors: ["martin"],
+    items: [
+      {
+        type: "feature",
+        cost: 0,
+        title: "👨🏻‍💻 Introducing: Yakk's new homepage and a brand new book - Nomad Vietnamese.",
+        data: {
+          image: "/entries/24-08-12/yakk-og.jpg",
+          text: "Today I launched the second major iteration of the app, along with a new design and Yakk's first paid book. It's a big milestone. This thing I've spent so much time building has actually started to make money. \n\nThis is work I love. Work that gives me meaning, and provides me the opportunity to build something and add value in the space that excites me the most – language learning.",
+          linkText: "yakk.app",
+          linkUrl: "https://yakk.app/",
+        },
+      },
+      {
+        type: "youtube",
+        cost: 1500,
+        title: "🎥 &nbsp;What I've been building.",
+        data: {
+          body: "After months of hard work, today I achieved my goal of writing a language book for digital nomads to make their experience in Vietnam 100x better.",
+          thumbnail: "/entries/24-08-12/16.jpg",
+          url: "https://youtu.be/I0Wx0-itYa8?si=7WchOqczTpbW_M60",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-08-14",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ We've been thinking...",
+        data: {
+          body: "Over the last few weeks we've really intentionally leaned in to our Vietnam life. As excited as we were to head back home, there's still so much for us to see in Asia. We're not ready to say goodbye yet.",
+        },
+      },
+      {
+        type: "youtube",
+        cost: 0,
+        title: "🎥 &nbsp;We can't leave Vietnam.",
+        data: {
+          body: "After 6 months living in Đà Nẵng, Vietnam, we have decided we can't leave. In this video we share the reasons why we love life here and why we decided to cancel all of our plans to return to Europe.",
+          thumbnail: "/entries/24-08-14/17.jpg",
+          url: "https://youtu.be/_Ob78fOc5iw?si=HpRuBZXg1-PEVX4w",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-08-15",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "text",
+        cost: -50,
+        title: "⚡️ I've picked up some freelance work.",
+        data: {
+          body: "I've recently started some contract work. It's for a remote company, working two days a week at my freelance rate! The people I work with are so funny and collaborative. \n\nBut the real highlight is that for a few months I can cover our living costs working only a few days a week!",
+        },
+      },
+      {
+        type: "tickets",
+        cost: -1600,
+        title: "💸 &nbsp; So you might see the ticker ↑ go up sometimes from now on!",
+        data: {
+          url: "/entries/24-08-15/invoice.png",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-08-16",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "youtube",
+        cost: 0,
+        title: "🎥 &nbsp; I posted my first youtube video!",
+        data: {
+          body: "It's the year 2024 and I can not let another year of my life go by where I don't fulfil my destiny of becoming a youtuber. So here goes: How I lost myself (and found myself again) in Vietnam.",
+          thumbnail: "/entries/24-08-16/thumbnail.jpg",
+          url: "https://youtu.be/pjLQG7FmrZo?si=Vo4_Ut9M5N7ZnO36",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-08-17",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "image",
+        cost: 150,
+        title: "📍 We're Bangkok bound!",
+        data: {
+          url: "/entries/24-08-17/dad-bkk.jpg",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 1800,
+        title: "📸 &nbsp;This might be our coolest apartment yet.",
+        data: {
+          id: "6a20f243cbff408d849f1cc6b0bd72fa",
+          images: [
+            { url: "/entries/24-08-17/1.jpeg" },
+            { url: "/entries/24-08-17/2.jpeg" },
+            { url: "/entries/24-08-17/3.jpeg" },
+            { url: "/entries/24-08-17/4.jpeg" },
+            { url: "/entries/24-08-17/5.jpeg" },
+          ],
         },
       },
     ],
