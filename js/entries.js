@@ -962,7 +962,7 @@ const entries = [
       {
         type: "gallery",
         cost: 90,
-        title: "📸 &nbsp;We finally went to Ba Na hills with a cool new friend we randomly met in a coffee shop!",
+        title: "📸 &nbsp;We finally went to Ba Na Hills with a cool new friend we randomly met in a coffee shop!",
         data: {
           id: "64c1160776f74420ba3918d6bfab01d5",
           images: [
@@ -984,7 +984,7 @@ const entries = [
       {
         type: "tickets",
         cost: 600,
-        title: "🇹🇭 &nbsp; Our Thailand DTV visas have come through and are valid for 5 years!!! How cool is that?",
+        title: "🇹🇭 &nbsp; Our Thailand DTV visas have come through and are valid for 5 years! We're super happy.",
         data: {
           url: "/entries/24-08-08/visas.png",
         },
@@ -1057,7 +1057,7 @@ const entries = [
         cost: 0,
         title: "⚡️ We've been thinking...",
         data: {
-          body: "Over the last few weeks we've really intentionally leaned in to our Vietnam life. As excited as we were to head back home, there's still so much for us to see in Asia. We're not ready to say goodbye yet.",
+          body: "Over the last few weeks we've really intentionally leaned in to our Vietnam life. As excited as we were to head back home, we're even more excited to just stay here.",
         },
       },
       {
@@ -1101,7 +1101,7 @@ const entries = [
       {
         type: "youtube",
         cost: 0,
-        title: "🎥 &nbsp; I posted my first youtube video!",
+        title: "🎥 &nbsp; I made my first youtube video!",
         data: {
           body: "It's the year 2024 and I can not let another year of my life go by where I don't fulfil my destiny of becoming a youtuber. So here goes: How I lost myself (and found myself again) in Vietnam.",
           thumbnail: "/entries/24-08-16/thumbnail.jpg",
