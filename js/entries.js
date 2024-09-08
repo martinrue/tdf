@@ -1139,4 +1139,58 @@ const entries = [
       },
     ],
   },
+  {
+    date: "2024-08-25",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 1000,
+        title: "📸 &nbsp;We're loving the energy in Bangkok.",
+        data: {
+          id: "7cab96324f0a4d1bae1915edebf0e99e",
+          images: [
+            { url: "/entries/24-08-25/1.jpg" },
+            { url: "/entries/24-08-25/2.jpg" },
+            { url: "/entries/24-08-25/6.jpg" },
+            { url: "/entries/24-08-25/3.jpg" },
+            { url: "/entries/24-08-25/4.jpg" },
+            { url: "/entries/24-08-25/5.jpg" },
+          ],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-09-01",
+    authors: ["elizabeth", "martin"],
+    items: [
+      {
+        type: "youtube",
+        cost: 0,
+        title: "🎥 &nbsp; Bangkok is awesome!",
+        data: {
+          body: "Our first two weeks here have been awesome, and Bangkok is truly impressing us. We share our thoughts on life here in Thailand's capital, and consider whether we could really move here long term.",
+          thumbnail: "/entries/24-09-01/thumb.jpeg",
+          url: "https://youtu.be/sNhWcerYp9Q?si=CUvmVvAx1AoxT8GC",
+        },
+      },
+    ],
+  }, 
+  {
+    date: "2024-09-07",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "youtube",
+        cost: 0,
+        title: "🎥 &nbsp; My own Bangkok vlog is live now too!",
+        data: {
+          body: "Welcome to my Bangkok era, where I explore this fantastic city and uncover who I can be on the other side of little daily excuses and the fear of being better.",
+          thumbnail: "/entries/24-09-07/thumbnail.jpg",
+          url: "https://youtu.be/X7-_AFFDYqY?si=gxLVcXc6pBfWSIpp",
+        },
+      },
+    ],
+  },
 ];
