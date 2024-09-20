@@ -6,7 +6,7 @@ const entries = [
       {
         type: "text",
         cost: 0,
-        title: "⚡️ Welcome to The Discovery Fund",
+        title: "⚡️ Welcome to The Discovery Fund.",
         data: {
           body: "We're Elizabeth &amp; Martin, two people who got sick of not having enough time to work on our own ideas – so we saved up all the money we could and quit our jobs. Now we're going on an adventure to discover new places, new people and build our own futures.\n\nWe made this site to document everything: from where we are and what we're doing, to what it's costing us. We'll be updating TDF weekly – join us for the ride!",
         },
@@ -97,7 +97,7 @@ const entries = [
       {
         type: "youtube",
         cost: 0,
-        title: "🎥 &nbsp;First time in Dubai",
+        title: "🎥 &nbsp;First time in Dubai.",
         data: {
           body: "This city surprised us and it wasn't what we expected. Check out what we got up to.",
           thumbnail: "/entries/24-02-29/vlog.jpeg",
@@ -123,7 +123,7 @@ const entries = [
       {
         type: "text",
         cost: 0,
-        title: "⚡️ Our thoughts on Dubai",
+        title: "⚡️ Our thoughts on Dubai.",
         data: {
           body: "We can't lie, Dubai impressed us more than we expected. From its super clean streets and architectural wonder, to the great food and relaxed vibes, this city has a lot going for it. In the end we feel like we could have spent a bit more time here – but who knows, maybe we'll be back.",
         },
@@ -137,7 +137,7 @@ const entries = [
       {
         type: "tickets",
         cost: 791,
-        title: "✈️ &nbsp;Next stop: Hanoi",
+        title: "✈️ &nbsp;Next stop: Hanoi.",
         data: {
           url: "/entries/24-03-01/ticket.png",
         },
@@ -153,7 +153,7 @@ const entries = [
       {
         type: "gallery",
         cost: 539,
-        title: "📸 &nbsp;Our home in Hanoi",
+        title: "📸 &nbsp;Our home in Hanoi.",
         data: {
           id: "11adcc070c5f4efb8eebbed2dc41b034",
           images: [{ url: "/entries/24-03-01/1.jpeg" }, { url: "/entries/24-03-01/2.jpeg" }, { url: "/entries/24-03-01/3.jpeg" }],
@@ -168,7 +168,7 @@ const entries = [
       {
         type: "gallery",
         cost: 400,
-        title: "📸 &nbsp;The food in Hanoi is awesome",
+        title: "📸 &nbsp;The food in Hanoi is awesome.",
         data: {
           id: "53fbb6e02cf4464a8cbd96973b3001c2",
           images: [{ url: "/entries/24-03-06/1.jpeg" }, { url: "/entries/24-03-06/2.jpeg" }, { url: "/entries/24-03-06/3.jpeg" }, { url: "/entries/24-03-06/4.jpeg" }],
@@ -183,7 +183,7 @@ const entries = [
       {
         type: "video",
         cost: 0,
-        title: "🎥 &nbsp; A day in our life",
+        title: "🎥 &nbsp; A day in our life.",
         data: {
           mp4: "/entries/24-03-08/hanoi-video.mp4",
           thumbnail: "/entries/24-03-08/hanoi-video.jpg",
@@ -198,7 +198,7 @@ const entries = [
       {
         type: "tickets",
         cost: 150,
-        title: "✈️ &nbsp;We're taking the adventure south",
+        title: "✈️ &nbsp;We're taking the adventure south!",
         data: {
           url: "/entries/24-03-09/ticket.png",
         },
@@ -220,7 +220,7 @@ const entries = [
       {
         type: "video",
         cost: 155,
-        title: "🎥 &nbsp; Our last day in Hanoi",
+        title: "🎥 &nbsp; Our last day in Hanoi.",
         data: {
           mp4: "/entries/24-03-12/hanoi-video2.mp4",
           thumbnail: "/entries/24-03-12/hanoi-video2.jpg",
@@ -229,7 +229,7 @@ const entries = [
       {
         type: "gallery",
         cost: 200,
-        title: "📸 &nbsp;We're going to miss this place",
+        title: "📸 &nbsp;We're going to miss this place.",
         data: {
           id: "ab0aa40932bc4e7193fbdf5c01d65e9d",
           images: [
@@ -245,7 +245,7 @@ const entries = [
       {
         type: "text",
         cost: 0,
-        title: "⚡️ Our verdict on Hanoi",
+        title: "⚡️ Our verdict on Hanoi:",
         data: {
           body: "After the initial culture shock of this chaotic city, we've grown very fond of Hanoi. It's full of literally thousands of amazing coffee shops, unlike anything we've experienced before. It's a great city for remote work! But Hanoi was just the first stop, so let the adventure continue.",
         },
@@ -267,7 +267,7 @@ const entries = [
       {
         type: "gallery",
         cost: 855,
-        title: "📸 &nbsp;We love our new apartment",
+        title: "📸 &nbsp;We love our new apartment.",
         data: {
           id: "1d42372833f84d42b6f77cd26fae6936",
           images: [{ url: "/entries/24-03-13/1.jpeg" }, { url: "/entries/24-03-13/2.jpeg" }, { url: "/entries/24-03-13/3.jpeg" }],
@@ -276,7 +276,7 @@ const entries = [
       {
         type: "text",
         cost: 0,
-        title: "⚡️ First impressions of Da Nang",
+        title: "⚡️ First impressions of Da Nang:",
         data: {
           body: "So far we're LOVING it here! We've only been here an afternoon and we've already seen the beach, soaked up some rays and found some cool hangout spots. This is what we always imagined our digital nomad life to look like. We're really looking forward to making this place home! ",
         },
@@ -321,7 +321,7 @@ const entries = [
       {
         type: "text",
         cost: 0,
-        title: "⚡️ The community here is so damn good",
+        title: "⚡️ The community here is so damn good.",
         data: {
           body: "In our first week in Da Nang we've been making a special effort to attend many of the cool events in the city. From art classes and startup events to joining a brand new co-working community, we have already met tons of cool people and made plenty of new friends. We're blown away by how much of an amazing community exists in this city.",
         },
@@ -329,7 +329,7 @@ const entries = [
       {
         type: "gallery",
         cost: 0,
-        title: "📸 &nbsp; So many cool people",
+        title: "📸 &nbsp; So many cool people!",
         data: {
           id: "720f06f7ef1e4e609692e5f70ecc775e",
           images: [
@@ -345,7 +345,7 @@ const entries = [
       {
         type: "text",
         cost: 0,
-        title: "⚡️ We're now members of Coworking Danang",
+        title: "⚡️ We're now members of Coworking Danang.",
         data: {
           body: "By random luck, a brand new co-working space opened today, so we went over to check it out. After hanging out all day (and most of the evening), we definitely just found our tribe. There are so many cool people, even on day 1. It was an easy call – we're now members... and the best bit? It's only a 3 minute walk from our apartment!",
         },
@@ -375,7 +375,7 @@ const entries = [
       {
         type: "blog",
         cost: 326,
-        title: "💬 Reflections on Da Nang",
+        title: "💬 Reflections on Da Nang.",
         data: {
           header: "What I'm doing now",
           linkText: "martinrue.com/now",
@@ -392,7 +392,7 @@ const entries = [
       {
         type: "video",
         cost: 100,
-        title: "🎥 &nbsp; Holi Festival 2024",
+        title: "🎥 &nbsp; Holi Festival 2024.",
         data: {
           mp4: "/entries/24-03-24/holi.mp4",
           thumbnail: "/entries/24-03-24/holi.jpg",
@@ -407,7 +407,7 @@ const entries = [
       {
         type: "gallery",
         cost: 237,
-        title: "📸 &nbsp; Life lately",
+        title: "📸 &nbsp; Life lately:",
         data: {
           id: "e689416c4d1e4197bc4c888237f06340",
           images: [
@@ -437,7 +437,7 @@ const entries = [
       {
         type: "gallery",
         cost: 100,
-        title: "📸 &nbsp; Girls trip to Hoi An",
+        title: "📸 &nbsp; Girls trip to Hoi An.",
         data: {
           id: "b9d2389372724ccd8317670d5b6419ce",
           images: [
@@ -467,7 +467,7 @@ const entries = [
       {
         type: "gallery",
         cost: 0,
-        title: "📸 &nbsp; We're besties now",
+        title: "📸 &nbsp; We're besties now.",
         data: {
           id: "47b574253d16470f936e2feb35b6c5e1",
           images: [
@@ -619,7 +619,7 @@ const entries = [
       {
         type: "youtube",
         cost: 1500,
-        title: "🎥 &nbsp;Life in Đà Nẵng",
+        title: "🎥 &nbsp;Life in Đà Nẵng.",
         data: {
           body: "In this vlog we share all the reasons why we came here and what our daily life in Da Nang is like.",
           thumbnail: "/entries/24-04-29/da-nang-vlog.jpeg",
@@ -635,7 +635,7 @@ const entries = [
       {
         type: "youtube",
         cost: 200,
-        title: "🎥 &nbsp;24 hours on the Chàm Islands",
+        title: "🎥 &nbsp;24 hours on the Chàm Islands.",
         data: {
           body: "Together with everyone from our co-working space, we spent 24 hours on a tiny island off the coast of Đà Nẵng.",
           thumbnail: "/entries/24-05-01/cham.jpeg",
@@ -665,7 +665,7 @@ const entries = [
           header: "What I'm doing now",
           linkText: "martinrue.com/now",
           linkUrl: "https://martinrue.com/now/",
-          preview: "I'm writing this update from a bathtub – one of my favourite spots to get some serious thinking done.",
+          preview: "I'm writing this update from a bathtub - one of my favourite spots to get some serious thinking done.",
         },
       },
     ],
@@ -823,7 +823,7 @@ const entries = [
       {
         type: "text",
         cost: 0,
-        title: "⚡️ A Digital Nomad Hack.",
+        title: "⚡️ A Digital Nomad Hack:",
         data: {
           body: "Finding new friends out here is overwhelming, because there's so many people to meet. Our new favourite way to make new friends is speak to everyone at our current friends' goodbye dinners. We've met the coolest people this way, and we always joke that for every one friend we lose, they replace themselves with 2-3 new ones 🤣",
         },
@@ -1168,7 +1168,7 @@ const entries = [
       {
         type: "youtube",
         cost: 0,
-        title: "🎥 &nbsp; Bangkok is awesome!",
+        title: "🎥 &nbsp; Bangkok is awesome.",
         data: {
           body: "Our first two weeks here have been awesome, and Bangkok is truly impressing us. We share our thoughts on life here in Thailand's capital, and consider whether we could really move here long term.",
           thumbnail: "/entries/24-09-01/thumb.jpeg",
@@ -1189,6 +1189,150 @@ const entries = [
           body: "Welcome to my Bangkok era, where I explore this fantastic city and uncover who I can be on the other side of little daily excuses and the fear of being better.",
           thumbnail: "/entries/24-09-07/thumbnail.jpg",
           url: "https://youtu.be/X7-_AFFDYqY?si=gxLVcXc6pBfWSIpp",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-09-08",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 250,
+        title: "📸 &nbsp;I've entered the BKK girls groupchat!",
+        data: {
+          id: "deae34f8e84044d58f4b5ad0870c5751",
+          images: [
+            { url: "/entries/24-09-08/1.jpg" },
+            { url: "/entries/24-09-08/2.jpg" },
+          ],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-09-13",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 1000,
+        title: "📸 &nbsp;We're making the most of Bangkok life before it's on to our next adventure.",
+        data: {
+          id: "1c12032758d04429b6d491d61bf969d1",
+          images: [
+            { url: "/entries/24-09-13/1.jpg" },
+            { url: "/entries/24-09-13/2.jpg" },
+            { url: "/entries/24-09-13/3.jpg" },
+            { url: "/entries/24-09-13/4.jpg" },
+            { url: "/entries/24-09-13/5.jpg" },
+            { url: "/entries/24-09-13/6.jpg" },
+          ],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-09-16",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "youtube",
+        cost: 0,
+        title: "🎥 &nbsp; Bangkok condo tour.",
+        data: {
+          body: "In Bangkok we're choosing the condo lifestyle, and we're loving it. In this video we give you a tour of our apartment and the amenities that make life here so cool.",
+          thumbnail: "/entries/24-09-16/thumb.jpg",
+          url: "https://www.youtube.com/watch?v=g8Y7IB599Xw",
+        },
+      },
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ We're going to miss it here.",
+        data: {
+          body: "Soon we'll be leaving Bangkok, but there's still so much left to discover in this incredible city. That's why we've decided to come back after Chiang Mai until the end of the year. And, obviously, we're coming back to this apartment.",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-09-17",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "tickets",
+        cost: 80,
+        title: "🚂 &nbsp; Off to Chiang Mai!",
+        data: {
+          url: "/entries/24-09-17/BKK-CNX.png",
+        },
+      },
+      {
+        type: "tickets",
+        cost: -1250,
+        title: "💸 &nbsp; Another boost to the fund!",
+        data: {
+          url: "/entries/24-09-17/invoice.png",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-09-18",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "image",
+        cost: 150,
+        title: "📍 We made it!",
+        data: {
+          url: "/entries/24-09-18/bkk-cnx.jpg",
+        },
+      },
+      {
+        type: "youtube",
+        cost: 0,
+        title: "🎥 &nbsp; This is how we got here.",
+        data: {
+          body: "Instead of flying, we chose to get a train to Chiang Mai, here's how it went.",
+          thumbnail: "/entries/24-09-18/20.jpg",
+          url: "https://youtu.be/OAiHo-eX5I8?si=YW1G8gf4YCw09n5e",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 700,
+        title: "📸 &nbsp;We seem to have an eye for great apartments.",
+        data: {
+          id: "7ce48536ba5840b1a3a935b41c46c480",
+          images: [
+            { url: "/entries/24-09-18/1.jpeg" },
+            { url: "/entries/24-09-18/2.jpeg" },
+            { url: "/entries/24-09-18/3.jpeg" },
+            { url: "/entries/24-09-18/4.jpeg" },
+            { url: "/entries/24-09-18/6.jpeg" },
+            { url: "/entries/24-09-18/5.jpeg" },
+          ],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-09-18",
+    authors: ["martin"],
+    items: [
+      {
+        type: "gallery",
+        cost: 150,
+        title: "📸 &nbsp;Back on the road, and all we have to show for it is this lowsy police ticket...",
+        data: {
+          id: "fa136704a99e41a39d428722b32a6fc5",
+          images: [
+            { url: "/entries/24-09-20/1.jpeg" },
+            { url: "/entries/24-09-20/2.jpeg" },
+          ],
         },
       },
     ],
