@@ -1337,4 +1337,84 @@ const entries = [
       },
     ],
   },
+  {
+    date: "2024-09-23",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 400,
+        title: "📸 &nbsp;Chiang Mai so far...",
+        data: {
+          id: "1615906d676743af9bff5e63cbc5c063",
+          images: [
+            { url: "/entries/24-09-23/1.jpg" },
+            { url: "/entries/24-09-23/2.jpg" },
+            { url: "/entries/24-09-23/3.jpg" },
+            { url: "/entries/24-09-23/4.jpg" },
+            { url: "/entries/24-09-23/5.jpg" },
+            { url: "/entries/24-09-23/6.jpg" },
+          ],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-09-27",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 200,
+        title: "📸 &nbsp;It flooded in Chiang Mai this week.",
+        data: {
+          id: "3557636d102f40999f86da4a8a6b9a96",
+          images: [
+            { url: "/entries/24-09-27/7.jpg" },
+            { url: "/entries/24-09-27/8.jpg" },
+            { url: "/entries/24-09-27/9.jpg" },
+            { url: "/entries/24-09-27/10.jpg" },
+          ],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-10-01",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 100,
+        title: "📸 &nbsp; We got our thai driving license. It only took one weekend. No more police fines!",
+        data: {
+          id: "a5fb22d9b4c14a3d86c7893239907598",
+          images: [
+            { url: "/entries/24-10-01/11.jpg" },
+            { url: "/entries/24-10-01/12.jpg" },
+            { url: "/entries/24-10-01/13.jpg" },
+            { url: "/entries/24-10-01/15.jpg" },
+            { url: "/entries/24-10-01/16.jpg" },
+            { url: "/entries/24-10-01/17.jpg" },
+          ],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-10-01",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "youtube",
+        cost: 0,
+        title: "🎥 &nbsp; It flooded again! This time we filmed our experience.",
+        data: {
+          body: "This one broke the record as Chiang Mai's worst ever flood. We decided stay put and capture how it all played out.",
+          thumbnail: "/entries/24-10-08/1.jpg",
+          url: "https://youtu.be/u_vGbCCsDmA?si=WkhQM_UyfhSf4ymk",
+        },
+      },
+    ],
+  },
 ];
