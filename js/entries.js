@@ -664,7 +664,7 @@ const entries = [
         data: {
           header: "What I'm doing now",
           linkText: "martinrue.com/now",
-          linkUrl: "https://martinrue.com/now/",
+          linkUrl: "https://martinrue.com/now/past/24-05/",
           preview: "I'm writing this update from a bathtub - one of my favourite spots to get some serious thinking done.",
         },
       },
@@ -709,7 +709,7 @@ const entries = [
         data: {
           header: "What I'm doing now",
           linkText: "elizabethkershaw.co.uk/now",
-          linkUrl: "https://elizabethkershaw.co.uk/now/",
+          linkUrl: "https://elizabethkershaw.co.uk/now/past/20-05/",
           preview: "It's currently raining outside, and the calming sound of this tropical downpour seemed like the perfect backdrop to write a little update on what's been happening in my life.",
         },
       },
@@ -1140,6 +1140,23 @@ const entries = [
     ],
   },
   {
+    date: "2024-08-22",
+    authors: ["martin"],
+    items: [
+      {
+        type: "blog",
+        cost: 100,
+        title: "💬 What I'm doing now.",
+        data: {
+          header: "What I'm doing now",
+          linkText: "martinrue.com/now",
+          linkUrl: "https://martinrue.com/now/past/24-08/",
+          preview: "I'm writing this update from a cool co-working space called Paper Plane Project in Bangkok, Thailand.",
+        },
+      },
+    ],
+  },
+  {
     date: "2024-08-25",
     authors: ["martin", "elizabeth"],
     items: [
@@ -1402,7 +1419,24 @@ const entries = [
     ],
   },
   {
-    date: "2024-10-01",
+    date: "2024-10-06",
+    authors: ["martin"],
+    items: [
+      {
+        type: "blog",
+        cost: 100,
+        title: "💬 A now update from the floods.",
+        data: {
+          header: "What I'm doing now",
+          linkText: "martinrue.com/now",
+          linkUrl: "https://martinrue.com/now/past/24-08/",
+          preview: "I'm writing this update from my apartment in Chiang Mai. Chiang Mai is currently having its worst flood on record. For the past 2 days I've been stuck here with no water and power, which also means no aircon or internet.",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-10-08",
     authors: ["martin", "elizabeth"],
     items: [
       {
@@ -1413,6 +1447,343 @@ const entries = [
           body: "This one broke the record as Chiang Mai's worst ever flood. We decided stay put and capture how it all played out.",
           thumbnail: "/entries/24-10-08/1.jpg",
           url: "https://youtu.be/u_vGbCCsDmA?si=WkhQM_UyfhSf4ymk",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-10-16",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 300,
+        title: "📸 &nbsp; We're heading in seperate directions for a few weeks!",
+        data: {
+          id: "744d9f853352487eb83873fd801008dc",
+          images: [
+            { url: "/entries/24-10-16/1.jpg"},
+          ],
+        },
+      },
+      {
+        type: "tickets",
+        cost: 80,
+        title: "🚂 &nbsp; Martin's heading back to Bangkok.",
+        data: {
+          url: "/entries/24-10-16/bkk.png",
+        },
+      },
+      {
+        type: "tickets",
+        cost: 80,
+        title: "✈️ &nbsp; Elizabeth's off to Krabi.",
+        data: {
+          url: "/entries/24-10-16/cnx.png",
+        },
+      },
+      {
+        type: "image",
+        cost: 150,
+        title: "📍 See you soon!",
+        data: {
+          url: "/entries/24-10-16/flights.jpg",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-10-18",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "blog",
+        cost: 100,
+        title: "💬 Time for a /now update!",
+        data: {
+          header: "What I'm doing now",
+          linkText: "elizabethkershaw.co.uk/now",
+          linkUrl: "https://elizabethkershaw.co.uk/now/",
+          preview: "I've just arrived in Krabi, where I'm meeting my friend Hannah for a 3 week girls trip. Today is the first time I've been alone in 8 months. How wild is that?",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-10-20",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 300,
+        title: "📸 &nbsp; Hannah's back! We're spending 3 weeks together here in Krabi.",
+        data: {
+          id: "3f49e9936da640538bf0b247f97b1bcd",
+          images: [
+            { url: "/entries/24-10-20/1.jpg" },
+            { url: "/entries/24-10-20/3.jpg" },
+            { url: "/entries/24-10-20/4.jpg" },
+            { url: "/entries/24-10-20/2.jpg" },
+            { url: "/entries/24-10-20/5.jpg" },
+            { url: "/entries/24-10-20/6.jpg" },
+          ],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-10-26",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "youtube",
+        cost: 500,
+        title: "🎥 &nbsp; We're having a blast.",
+        data: {
+          body: "This vlog is just a little insight into how we've been spending our time together, pushing each other to follow our passions and have lots of fun along the way.",
+          thumbnail: "/entries/24-10-26/1.jpg",
+          url: "https://youtu.be/8ZJKY7QhXYU?si=DOHj7lkq08T61osi",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-11-01",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "youtube",
+        cost: 500,
+        title: "🎥 &nbsp; It's so nice to have girl time.",
+        data: {
+          body: "Making new friends is one thing, but becoming close enough to travel together and try new things is a real privilege and we're excited to take you along with us!",
+          thumbnail: "/entries/24-11-1/2.jpg",
+          url: "https://youtu.be/Ll8lRTiSRec?si=sloCbherP2mmjLrQ",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-11-6",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "tickets",
+        cost: 80,
+        title: "✈️ &nbsp; Hannah's joining us in BKK!",
+        data: {
+          url: "/entries/24-11-6/bkk.png",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-11-14",
+    authors: ["elizabeth", "martin"],
+    items: [
+      {
+        type: "text",
+        cost: 1000,
+        title: "⚡️ We're back in Bangkok",
+        data: {
+          body: "We are back in Bangkok for the rest of the year, and we're doubling down on the routine. We have no more travel planned for this year.",
+        },
+      },
+      {
+        type: "youtube",
+        cost: 200,
+        title: "🎥 &nbsp; Time for a life update!",
+        data: {
+          body: "It's the perfect time of year to be in Thailand, and in this video we share what our life is like here now that we've found our routine.",
+          thumbnail: "/entries/24-11-14/22.jpg",
+          url: "https://youtu.be/xppgQNMg_Ik?si=1l0tdg_gsDbTHFZA",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-11-19",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 500,
+        title: "📸 &nbsp; It's my 26th birthday!",
+        data: {
+          id: "310f95ba-1139-48f3-91a2-ce7e91fe04ba",
+          images: [
+            { url: "/entries/24-11-19/1.jpg" },
+            { url: "/entries/24-11-19/2.jpg" },
+            { url: "/entries/24-11-19/3.jpg" },
+            { url: "/entries/24-11-19/4.jpg" },
+            { url: "/entries/24-11-19/5.jpg" },
+            { url: "/entries/24-11-19/6.jpg" },
+          ],
+        },
+      },
+      {
+        type: "youtube",
+        cost: 200,
+        title: "🎥 &nbsp; Here's 26 life lessons for 26 years!",
+        data: {
+          body: " I just wanted to sit down and chat about some of the most prominent lessons I've learned in the 26 years I've been alive and try out a new format of chatty videos. Enjoy!",
+          thumbnail: "/entries/24-11-19/26.jpg",
+          url: "https://youtu.be/B3fY1HEo5K0?si=PJ6r-oxKTMMBbISj",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-11-30",
+    authors: ["elizabeth", "martin"],
+    items: [
+      {
+        type: "text",
+        cost: 1000,
+        title: "⚡️ We've extended our stay.",
+        data: {
+          body: "We're still thriving off the energy of Bangkok and aren't ready to leave just yet. So we'll be staying until mid Feb before heading back to Vietnam!",
+        },
+      },
+      {
+        type: "timer",
+        cost: 0,
+        title: "⏱️ Time left in Bangkok.",
+        data: {
+          end: "2025-02-11T13:10:00Z",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-12-5",
+    authors: ["martin"],
+    items: [
+      {
+        type: "blog",
+        cost: 100,
+        title: "💬 A little end of year update.",
+        data: {
+          header: "What I'm doing now",
+          linkText: "martinrue.com/now",
+          linkUrl: "https://martinrue.com/now/",
+          preview: "34º in December is a little weird for me. The city has really Xmas'ified over the past few weeks, with decorations, music and festivities all over.",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-12-12",
+    authors: ["elizabeth", "martin"],
+    items: [
+      {
+        type: "gallery",
+        cost: 1000,
+        title: "📸 &nbsp; Christmas has officially begun!",
+        data: {
+          id: "68223fbbe8e74381b71dfd4403066f28",
+          images: [
+            { url: "/entries/24-12-12/11.jpg" },
+          ],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-12-15",
+    authors: ["martin"],
+    items: [
+      {
+        type: "youtube",
+        cost: 200,
+        title: "🎥 &nbsp; Here's why I'll never quit Esperanto.",
+        data: {
+          body: "In this video I celebrate Zamenhof Day by heading to the Bangkok Esperanto meetup, and to my surprise, meet a bunch of young students who are learning Esperanto as part of their curriculum here in Thailand.",
+          thumbnail: "/entries/24-12-15/thumb.jpg",
+          url: "https://youtu.be/QXJA1q2x3Hw?si=JXJkiorkLcd4UMqZ",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-12-16",
+    authors: ["elizabeth", "martin"],
+    items: [
+      {
+        type: "text",
+        cost: 800,
+        title: "⚡️ Elizabeth's Work Update",
+        data: {
+          body: "I'm about to hit 10k followers on Linkedin. And recently I've been meeting so many girls like me working on cool stuff. So I've had an idea to build an exclusive community for us all to level up together in the new year. I really want to launch before christmas, so I'll be dissapearing from normal life for a week.",
+        },
+      },
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ Martin's Work Update",
+        data: {
+          body: "I'm working on a new idea: LangSesh. It creates on-the-fly language exercises for people who have a spare 3 minutes and want to improve their target language. I'm making good progress to launch it at the start of next year.",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 0,
+        title: "📸 &nbsp; Here's a little sneak peek:",
+        data: {
+          id: "cdf9e735687a41609288900b64a3f092",
+          images: [
+            { url: "/entries/24-12-16/1.jpg" },
+            { url: "/entries/24-12-16/2.jpg" },
+          ],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-12-19",
+    authors: ["martin"],
+    items: [
+      {
+        type: "youtube",
+        cost: 200,
+        title: "🎥 &nbsp; I'm doing Advent of Code 2024.",
+        data: {
+          body: "AoC is an annual set of coding challenges that come out each day leading up to the 25th. It's a fun way to practise your problem solving skills and this year I decided to challenge myself by recording my solutions live.",
+          thumbnail: "/entries/24-12-19/aoc01.png",
+          url: "https://youtu.be/GfgOSfEErKI?si=3X4NpHHPJd0OQ2r4",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-12-20",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "feature",
+        cost: 0,
+        title: "👩🏼‍💻 Introducing: Journee Girls Club!",
+        data: {
+          image: "/entries/24-12-20/title.jpg",
+          text: "Today I'm launching something exciting I've been working on the last few weeks. A private online community where ambitious girls: <br><br>→ Get expert masterclasses on all aspects of life <br>→ Co-work on their dreams with their new besties <br>→ Build real connections with other girls who get it <br><br> I've just opened applications for the founding cohort, and this is the Vision doc I've made to get people on board!",
+          linkText: "✨Vision Doc✨",
+          linkUrl: "https://drive.google.com/file/d/1gRTMOC3Wfsnaxfj7jDfT2Al6RmmwlOKx/view?usp=sharing",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-12-25",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "youtube",
+        cost: 300,
+        title: "🎥 &nbsp; Merry Christmas!",
+        data: {
+          body: "This is our first Christmas away from home and we're spending it with some of our closest friends in Bangkok.",
+          thumbnail: "/entries/24-12-25/xmas.jpg",
+          url: "***",
         },
       },
     ],
