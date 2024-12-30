@@ -1766,7 +1766,7 @@ const entries = [
         data: {
           body: "This is our first Christmas away from home and we're spending it with some of our closest friends in Bangkok.",
           thumbnail: "/entries/24-12-25/xmas.jpg",
-          url: "***",
+          url: "https://www.youtube.com/watch?v=7EmfEr2vLgI",
         },
       },
     ],
