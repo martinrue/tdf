@@ -1193,7 +1193,7 @@ const entries = [
         },
       },
     ],
-  }, 
+  },
   {
     date: "2024-09-07",
     authors: ["elizabeth"],
@@ -1220,10 +1220,7 @@ const entries = [
         title: "📸 &nbsp;I've entered the BKK girls groupchat!",
         data: {
           id: "deae34f8e84044d58f4b5ad0870c5751",
-          images: [
-            { url: "/entries/24-09-08/1.jpg" },
-            { url: "/entries/24-09-08/2.jpg" },
-          ],
+          images: [{ url: "/entries/24-09-08/1.jpg" }, { url: "/entries/24-09-08/2.jpg" }],
         },
       },
     ],
@@ -1346,10 +1343,7 @@ const entries = [
         title: "📸 &nbsp;Back on the road, and all we have to show for it is this lowsy police ticket...",
         data: {
           id: "fa136704a99e41a39d428722b32a6fc5",
-          images: [
-            { url: "/entries/24-09-20/1.jpeg" },
-            { url: "/entries/24-09-20/2.jpeg" },
-          ],
+          images: [{ url: "/entries/24-09-20/1.jpeg" }, { url: "/entries/24-09-20/2.jpeg" }],
         },
       },
     ],
@@ -1386,12 +1380,7 @@ const entries = [
         title: "📸 &nbsp;It flooded in Chiang Mai this week.",
         data: {
           id: "3557636d102f40999f86da4a8a6b9a96",
-          images: [
-            { url: "/entries/24-09-27/7.jpg" },
-            { url: "/entries/24-09-27/8.jpg" },
-            { url: "/entries/24-09-27/9.jpg" },
-            { url: "/entries/24-09-27/10.jpg" },
-          ],
+          images: [{ url: "/entries/24-09-27/7.jpg" }, { url: "/entries/24-09-27/8.jpg" }, { url: "/entries/24-09-27/9.jpg" }, { url: "/entries/24-09-27/10.jpg" }],
         },
       },
     ],
@@ -1430,7 +1419,8 @@ const entries = [
           header: "What I'm doing now",
           linkText: "martinrue.com/now",
           linkUrl: "https://martinrue.com/now/past/24-08/",
-          preview: "I'm writing this update from my apartment in Chiang Mai. Chiang Mai is currently having its worst flood on record. For the past 2 days I've been stuck here with no water and power, which also means no aircon or internet.",
+          preview:
+            "I'm writing this update from my apartment in Chiang Mai. Chiang Mai is currently having its worst flood on record. For the past 2 days I've been stuck here with no water and power, which also means no aircon or internet.",
         },
       },
     ],
@@ -1461,9 +1451,7 @@ const entries = [
         title: "📸 &nbsp; We're heading in seperate directions for a few weeks!",
         data: {
           id: "744d9f853352487eb83873fd801008dc",
-          images: [
-            { url: "/entries/24-10-16/1.jpg"},
-          ],
+          images: [{ url: "/entries/24-10-16/1.jpg" }],
         },
       },
       {
@@ -1564,7 +1552,7 @@ const entries = [
     ],
   },
   {
-    date: "2024-11-6",
+    date: "2024-11-06",
     authors: ["elizabeth"],
     items: [
       {
@@ -1656,7 +1644,7 @@ const entries = [
     ],
   },
   {
-    date: "2024-12-5",
+    date: "2024-12-05",
     authors: ["martin"],
     items: [
       {
@@ -1682,9 +1670,7 @@ const entries = [
         title: "📸 &nbsp; Christmas has officially begun!",
         data: {
           id: "68223fbbe8e74381b71dfd4403066f28",
-          images: [
-            { url: "/entries/24-12-12/11.jpg" },
-          ],
+          images: [{ url: "/entries/24-12-12/11.jpg" }],
         },
       },
     ],
@@ -1731,10 +1717,7 @@ const entries = [
         title: "📸 &nbsp; Here's a little sneak peek:",
         data: {
           id: "cdf9e735687a41609288900b64a3f092",
-          images: [
-            { url: "/entries/24-12-16/1.jpg" },
-            { url: "/entries/24-12-16/2.jpg" },
-          ],
+          images: [{ url: "/entries/24-12-16/1.jpg" }, { url: "/entries/24-12-16/2.jpg" }],
         },
       },
     ],
