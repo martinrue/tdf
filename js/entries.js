@@ -1744,7 +1744,7 @@ const entries = [
     items: [
       {
         type: "feature",
-        cost: 0,
+        cost: 250,
         title: "👩🏼‍💻 Introducing: Journee Girls Club!",
         data: {
           image: "/entries/24-12-20/title.jpg",
@@ -1767,6 +1767,664 @@ const entries = [
           body: "This is our first Christmas away from home and we're spending it with some of our closest friends in Bangkok.",
           thumbnail: "/entries/24-12-25/xmas.jpg",
           url: "https://www.youtube.com/watch?v=7EmfEr2vLgI",
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-01-01",
+    authors: ["elizabeth", "martin"],
+    items: [
+      {
+        type: "gallery",
+        cost: 100,
+        title: "📸 &nbsp; Happy New Year!",
+        data: {
+          id: "8ca59d784d3942078600f684da2cc929",
+          images: [{ url: "/entries/25-01-01/1.jpg" }, { url: "/entries/25-01-01/2.jpg" }, { url: "/entries/25-01-01/3.jpg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-01-02",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "youtube",
+        cost: 300,
+        title: "🎥 &nbsp; We're off on an adventure!",
+        data: {
+          body: "Our friend group will sadly be breaking up soon. So we're going on one last trip to Kanchanaburi, a small town 2 hours from Bangkok to make the most of the time we have left with Hannah and David.",
+          thumbnail: "/entries/25-01-02/kan.jpg",
+          url: "https://youtu.be/JuOKMH3oW_M?si=Zq7CwabCnEv2bt26",
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-01-03",
+    authors: ["elizabeth", "martin"],
+    items: [
+      {
+        type: "gallery",
+        cost: 200,
+        title: "📸 &nbsp; We had an awesome time.",
+        data: {
+          id: "56a20da9568646039c8d72143af1e4f3",
+          images: [{ url: "/entries/25-01-03/1.jpg" }, { url: "/entries/25-01-03/2.jpg" }, { url: "/entries/25-01-03/3.jpg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-01-13",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ I'm dissapearing again.",
+        data: {
+          body: "The launch of Journee Girls Club has been a big success, about 20 people have applied! But that means there's LOTS to do in the run up to the welcome party. So I need some time to get my head down and just completely focus. I really LOVED the vibe in Kanchanaburi, so I'm going back!",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 250,
+        title: "📸 &nbsp; Let me head back for a sec.",
+        data: {
+          id: "1473188174194b17b56eef44bb17cbbc",
+          images: [{ url: "/entries/25-01-13/4.jpg" }, { url: "/entries/25-01-13/5.jpg" }, { url: "/entries/25-01-13/6.jpg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-01-18",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 0,
+        title: "📸 &nbsp; WELCOME PARTY DAY!!!",
+        data: {
+          id: "6bd4c1be9953490f9645d0b3c724a235",
+          images: [{ url: "/entries/25-01-18/8.jpg" }, { url: "/entries/25-01-18/9.jpg" }],
+        },
+      },
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ It was a huge success.",
+        data: {
+          body: "Today marks the official beginning of Journee Girls Club! We had an incredible welcome party, where we got to know eachother and entered the Discord together. I'm really grateful for every single girl in here and I'm so proud of myself for pulling this together in the last few weeks. Excited to see how it goes!",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-01-27",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "feature",
+        cost: -450,
+        title: "👩🏼‍💻 The Journee Girls Club website is live!",
+        data: {
+          image: "/entries/25-01-27/jgcweb.png",
+          text: "I actually got my first ever BRAND DEAL with a company on Linekdin. How wild is that!? They paid me to post about their website builder and they also gave me access to their platform, so I took it as the perfect sign to build Journee Girls Club a website!",
+          linkText: "journeegirlsclub.com",
+          linkUrl: "https://journeegirlsclub.com",
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-02-02",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "youtube",
+        cost: 300,
+        title: "🎥 &nbsp; Why are we leaving Bangkok?",
+        data: {
+          body: "Soon it'll be time for us to head back to Da Nang. We're excited to be back, but are having mixed feelings about leaving Bangkok. So we made a video about it.",
+          thumbnail: "/entries/25-02-02/bkk.jpg",
+          url: "https://youtu.be/3JGNCH0_084?si=fIa5j0Suz1O5Wfp1",
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-02-04",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 300,
+        title: "📸 &nbsp; We're heading in seperate directions for a few weeks!",
+        data: {
+          id: "29aea06a1cac4537baa968410bab02cd",
+          images: [{ url: "/entries/25-02-04/1.jpg" }],
+        },
+      },
+      {
+        type: "tickets",
+        cost: 150,
+        title: "🚌 &nbsp; Martin's going through Cambodia by land.",
+        data: {
+          url: "/entries/25-02-04/BKK-SMRP.png",
+        },
+      },
+      {
+        type: "tickets",
+        cost: 120,
+        title: "✈️ &nbsp; Elizabeth's flying direct to Da Nang.",
+        data: {
+          url: "/entries/25-02-04/dadbkk.png",
+        },
+      },
+      {
+        type: "image",
+        cost: 300,
+        title: "📍 See you soon!",
+        data: {
+          url: "/entries/25-02-04/1.png",
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-02-06",
+    authors: ["martin"],
+    items: [
+      {
+        type: "youtube",
+        cost: 300,
+        title: "🎥 &nbsp; So far I'm loving Cambodia",
+        data: {
+          body: "I arrived in Siem Reap 2 days ago. The city is already surprising me with its quaint vibes, impressive cafes, co-working spaces and awesome food options. In this video, I show you two spots I've enjoyed working from.",
+          thumbnail: "/entries/25-02-06/sr.jpg",
+          url: "https://youtu.be/CdVTOEV7BHY?si=dnBNxkhLIkddMYvg",
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-02-08",
+    authors: ["martin"],
+    items: [
+      {
+        type: "gallery",
+        cost: 200,
+        title: "📸 &nbsp; I went to Angkor Wat. And WOAH!",
+        data: {
+          id: "23191a8787094b4baf4c4d93810789c2",
+          images: [{ url: "/entries/25-02-08/2.jpg" }, { url: "/entries/25-02-08/3.jpg" }, { url: "/entries/25-02-08/4.jpg" }, { url: "/entries/25-02-08/5.jpg" }, { url: "/entries/25-02-08/6.jpg" }, { url: "/entries/25-02-08/7.jpg" },],
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-02-13",
+    authors: ["martin"],
+    items: [
+      {
+        type: "youtube",
+        cost: 300,
+        title: "🎥 &nbsp; It's my birthday!",
+        data: {
+          body: "I'm doing a Q&A. A bit of a longer vlog than normal, but damn, you guys sent me some tough questions!",
+          thumbnail: "/entries/25-02-13/bday.jpg",
+          url: "https://youtu.be/_9VsPfQMCso?si=D36APBnzp_qoOG_u",
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-02-17",
+    authors: ["martin","elizabeth"],
+    items: [
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ We're back together in Da Nang!",
+        data: {
+          body: "After two weeks apart Martin has arrived in Da Nang. We're excited to see what Vietnam 2025 has in store for us!",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 600,
+        title: "📸 &nbsp; Time to catch up on some celebrations!",
+        data: {
+          id: "ba634526950b4f88916be59ed45fcac6",
+          images: [{ url: "/entries/25-02-17/1.jpg" }, { url: "/entries/25-02-17/2.jpg" }, { url: "/entries/25-02-17/3.jpg" }, { url: "/entries/25-02-17/4.jpg" }, { url: "/entries/25-02-17/5.jpg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-02-28",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "tickets",
+        cost: 120,
+        title: "✈️ &nbsp; Next, I'm going to pick up my brother in Bangkok.",
+        data: {
+          url: "/entries/25-02-28/bkk.png",
+        },
+      },
+      {
+        type: "image",
+        cost: 300,
+        title: "📍 Let's go!",
+        data: {
+          url: "/entries/25-02-28/dmk-dad.png",
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-03-05",
+    authors: ["martin"],
+    items: [
+      {
+        type: "gallery",
+        cost: 0,
+        title: "📸 &nbsp; Meanwhile my mum has arrived in Vietnam! She'll be here for 5 weeks.",
+        data: {
+          id: "e7cbb5ecd8964a56b376611536e9849d",
+          images: [{ url: "/entries/25-03-05/1.jpg" }, { url: "/entries/25-03-05/2.jpg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-03-07",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 300,
+        title: "📸 &nbsp; I found James! We've been exploring Bangkok",
+        data: {
+          id: "0d2661f318974fc3a79bd25d4bde4cf5",
+          images: [{ url: "/entries/25-03-07/1.jpg" }, { url: "/entries/25-03-07/3.jpg" }, { url: "/entries/25-03-07/4.jpg" }, { url: "/entries/25-03-07/2.jpg" }],
+        },
+      },
+      {
+        type: "tickets",
+        cost: 120,
+        title: "✈️ &nbsp; I'm bringing him back to Da Nang!",
+        data: {
+          url: "/entries/25-03-07/ticket.png",
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-03-08",
+    authors: ["martin"],
+    items: [
+      {
+        type: "gallery",
+        cost: 250,
+        title: "📸 &nbsp; We're staying in a condo style building on the other side of the river this year.",
+        data: {
+          id: "68b4481a4c0d4004b27ab5469d012e4f",
+          images: [{ url: "/entries/25-03-08/1.jpg" }, { url: "/entries/25-03-08/2.jpg" }, { url: "/entries/25-03-08/3.jpg" }, { url: "/entries/25-03-08/4.jpg" }, { url: "/entries/25-03-08/5.jpg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-03-15",
+    authors: ["elizabeth", "martin"],
+    items: [
+      {
+        type: "gallery",
+        cost: 300,
+        title: "📸 &nbsp; We're celebrating Holi again!",
+        data: {
+          id: "f2aec0920aa44027a843c30f5e427432",
+          images: [{ url: "/entries/25-03-15/1.jpg" }, { url: "/entries/25-03-15/2.jpg" }, { url: "/entries/25-03-15/3.jpg" }, { url: "/entries/25-03-15/4.jpg" }, { url: "/entries/25-03-15/5.jpg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-03-20",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "youtube",
+        cost: 300,
+        title: "🎥 &nbsp; James has also been vlogging his experience.",
+        data: {
+          body: "James tried himself with the Vlogger lifestyle (inspired by us) and documented his experience traveling! You can check out his channel and all his videos here. Hope you had fun James!",
+          thumbnail: "/entries/25-03-20/thaivlog.jpg",
+          url: "https://www.youtube.com/@jameskershaw7549",
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-03-22",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 0,
+        title: "📸 &nbsp; I've done another brand deal! This time a fitness brand sent me two adorable gym outfits to Vietnam. OMG!",
+        data: {
+          id: "ec82236d9ce54a1387a7f80258e7d9dc",
+          images: [{ url: "/entries/25-03-25/10.jpg" }, { url: "/entries/25-03-25/11.jpg" }, { url: "/entries/25-03-25/12.jpg" }, { url: "/entries/25-03-25/13.jpg" }, { url: "/entries/25-03-25/14.jpg" }, { url: "/entries/25-03-25/15.jpg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-03-28",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "youtube",
+        cost: 300,
+        title: "🎥 &nbsp; Journee Girls Club is growing. Time to go ghost!",
+        data: {
+          body: "I'll catch you up on everything that's gone down and show you some of the behind the scenes of building the second wave of Journee Girls Club, the private online community for young female founders, entrepreneurs & freelancers leveling up in life & business together.",
+          thumbnail: "/entries/25-03-28/hoian.jpg",
+          url: "https://youtu.be/bmKJHfJLjNg?si=GRDpPk5F-e5aFxMw",
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-04-05",
+    authors: ["elizabeth", "martin"],
+    items: [
+      {
+        type: "gallery",
+        cost: 0,
+        title: "📸 &nbsp; Having Martin's mum here has been a blast! We're going to miss hanging out with her",
+        data: {
+          id: "dd233f950c0549bca38921a55113a62c",
+          images: [{ url: "/entries/25-04-05/7.jpg" }, { url: "/entries/25-04-05/6.jpg" }, { url: "/entries/25-04-05/8.jpg" }, { url: "/entries/25-04-05/9.jpg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-04-10",
+    authors: ["elizabeth", "martin"],
+    items: [
+      {
+        type: "gallery",
+        cost: 250,
+        title: "📸 &nbsp; I'm taking Martin back to my fav hotel in Hoi An for some quality time together!",
+        data: {
+          id: "5c24e2880df5415786fa990441dabe59",
+          images: [{ url: "/entries/25-04-10/1.jpg" }, { url: "/entries/25-04-10/2.jpg" }, { url: "/entries/25-04-10/3.jpg" }, { url: "/entries/25-04-10/4.jpg" }, { url: "/entries/25-04-10/5.jpg" }, { url: "/entries/25-04-10/6.jpg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-04-15",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "blog",
+        cost: 0,
+        title: "💬 Time for a /now update!",
+        data: {
+          header: "What I'm doing now",
+          linkText: "elizabethkershaw.co.uk/now",
+          linkUrl: "https://elizabethkershaw.co.uk/now/",
+          preview: "I've sort of left this update SO long that it feels almost impossible to capture everything that's important. But that doesn't mean I won't try.",
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-04-20",
+    authors: ["elizabeth", "martin"],
+    items: [
+      {
+        type: "text",
+        cost: 1000,
+        title: "⚡️ We've decided our next adventure will be...",
+        data: {
+          body: "After a few months in Vietnam, we're feeling ready for something new. And Hoi An was a great reminder that calm and quiet might just be what we need most. So our next destination will be Koh Phangan, Thailand!",
+        },
+      },
+      {
+        type: "timer",
+        cost: 0,
+        title: "⏱️ Time until we set off!",
+        data: {
+          end: "2025-05-05T13:10:00Z",
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-04-28",
+    authors: ["martin"],
+    items: [
+      {
+        type: "feature",
+        cost: 0,
+        title: "👨🏻‍💻 Introducing: LangSesh",
+        data: {
+          image: "/entries/25-04-28/OG-white.png",
+          text: "Here's what I've been working on for the past 4 months. I just launched LangSesh - my second language learning product. It helps you turn a spare 3 mins into language practice.",
+          linkText: "langsesh.com",
+          linkUrl: "https://langsesh.com",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-05-01",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "youtube",
+        cost: 300,
+        title: "🎥 &nbsp; We're SO close to cohort 2!",
+        data: {
+          body: "I really wish I'd have documented the process of first building my business. Luckily, the second round won't be all too different. Here's a REAL behind the scenes of everything I do to grow Journee Girls Club.",
+          thumbnail: "/entries/25-05-01/dng.jpg",
+          url: "https://youtu.be/KCzwSSxohC0?si=HDeDg9HtptBuMFNQ",
+        },
+      },
+    ],
+  },
+  {
+    date: "2024-05-03",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "feature",
+        cost: 0,
+        title: "👩🏼‍💻 Welcome party round 2!",
+        data: {
+          image: "/entries/25-05-03/Girlies.png",
+          text: "We've had 10 new girls enter the space today - each of them incredible in their own unique way. The energy is infectious and we're so ready for what's to come!",
+          linkText: "journeegirlsclub.com",
+          linkUrl: "https://journeegirlsclub.com",
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-05-09",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "tickets",
+        cost: 80,
+        title: "✈️ &nbsp; Time for a quick stop-off in Bangkok.",
+        data: {
+          url: "/entries/25-05-09/flight.png",
+        },
+      },
+      {
+        type: "image",
+        cost: 150,
+        title: "📍 We're excited to be back!",
+        data: {
+          url: "/entries/25-05-09/path.png",
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-05-14",
+    authors: ["elizabeth", "martin"],
+    items: [
+      {
+        type: "gallery",
+        cost: 1000,
+        title: "📸 &nbsp; There's really nothing quite like it!",
+        data: {
+          id: "db7b339414e34e0290a522aa73514d89",
+          images: [{ url: "/entries/25-05-14/1.jpg" }, { url: "/entries/25-05-14/2.jpg" }, { url: "/entries/25-05-14/3.jpg" }, { url: "/entries/25-05-14/4.jpg" }, { url: "/entries/25-05-14/5.jpg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-05-16",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "tickets",
+        cost: 1000,
+        title: "🚂 &nbsp; Even if it was only a flying visit.",
+        data: {
+          url: "/entries/25-05-16/tickets.png",
+        },
+      },
+      {
+        type: "image",
+        cost: 150,
+        title: "📍 Now we're heading south.",
+        data: {
+          url: "/entries/25-05-16/train.jpg",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 0,
+        title: "📸 &nbsp; We made it to Surat Thani",
+        data: {
+          id: "486808764b464ec38d55333f010f23da",
+          images: [{ url: "/entries/25-05-16/1.jpg" },],
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-05-17",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "tickets",
+        cost: 100,
+        title: "⛴️ &nbsp; One last trip - this time by boat!",
+        data: {
+          url: "/entries/25-05-17/ferry.png",
+        },
+      },
+      {
+        type: "image",
+        cost: 150,
+        title: "📍 We can't wait to get there.",
+        data: {
+          url: "/entries/25-05-17/route.jpg",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 500,
+        title: "📸 &nbsp; Thank god we're here!",
+        data: {
+          id: "9ecdc38eab63457c83e449625157a89f",
+          images: [{ url: "/entries/25-05-17/1.jpg" }, { url: "/entries/25-05-17/2.jpg" }, { url: "/entries/25-05-17/3.jpg" }, { url: "/entries/25-05-17/4.jpg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-05-19",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "gallery",
+        cost: 600,
+        title: "📸 &nbsp; I've got my own bike!",
+        data: {
+          id: "9f7ed87ccc8247d09d3f17ebeb13f111",
+          images: [{ url: "/entries/25-05-19/5.jpg" }, { url: "/entries/25-05-19/6.jpg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-05-21",
+    authors: ["martin","elizabeth"],
+    items: [
+      {
+        type: "text",
+        cost: 0,
+        title: "⚡️ Our first thoughts on Koh Phangan",
+        data: {
+          body: "So far we've been impressed with this island. We're living a small life with a very focused routine and we're loving it! The nature is incredible and it's easy to get around everywhere. We think we're gonna love it here!",
+        },
+      },
+      {
+        type: "gallery",
+        cost: 600,
+        title: "📸 &nbsp; The island is stunning. We're blown away.",
+        data: {
+          id: "17364f5aae0e4877b14812f492cbc6d5",
+          images: [{ url: "/entries/25-05-21/1.jpg" }, { url: "/entries/25-05-21/2.jpg" }, { url: "/entries/25-05-21/3.jpg" }, { url: "/entries/25-05-21/4.jpg" }, { url: "/entries/25-05-21/5.jpg" }],
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-05-23",
+    authors: ["martin","elizabeth"],
+    items: [
+      {
+        type: "text",
+        cost: -10000,
+        title: "⚡️ Plan B just became Plan A",
+        data: {
+          body: "After some debate, we've decided to put our last bit of savings into The Discovery Fund. We're so close to turning this fund around and being able to live off our projects, we're determined to make things work. We're feeling hopeful that before the end of this journey we'll achieve what we set out to do!",
+        },
+      },
+    ],
+  },
+  {
+    date: "2025-05-28",
+    authors: ["elizabeth"],
+    items: [
+      {
+        type: "feature",
+        cost: 0,
+        title: "👩🏼‍💻 Introducing: The Journee Girls Club Podcast",
+        data: {
+          image: "/entries/25-05-28/Thumbnail.png",
+          text: "This podcast is bringing you into a room of 20 incredibly bright and deeply connected friends - talking about everything to do with business, mindset & community.",
+          linkText: "Spotify",
+          linkUrl: "https://open.spotify.com/episode/5K7phsz0Fdux2rx2m4JOac?si=38534b67223545d8",
         },
       },
     ],
