@@ -1491,7 +1491,7 @@ const entries = [
         data: {
           header: "What I'm doing now",
           linkText: "elizabethkershaw.co.uk/now",
-          linkUrl: "https://elizabethkershaw.co.uk/now/",
+          linkUrl: "https://elizabethkershaw.co.uk/now/past/18-10/",
           preview: "I've just arrived in Krabi, where I'm meeting my friend Hannah for a 3 week girls trip. Today is the first time I've been alone in 8 months. How wild is that?",
         },
       },
@@ -1698,7 +1698,7 @@ const entries = [
       {
         type: "text",
         cost: 800,
-        title: "⚡️ Elizabeth's Work Update",
+        title: "⚡️ Elizabeth's Work Update.",
         data: {
           body: "I'm about to hit 10k followers on Linkedin. And recently I've been meeting so many girls like me working on cool stuff. So I've had an idea to build an exclusive community for us all to level up together in the new year. I really want to launch before christmas, so I'll be dissapearing from normal life for a week.",
         },
@@ -1706,7 +1706,7 @@ const entries = [
       {
         type: "text",
         cost: 0,
-        title: "⚡️ Martin's Work Update",
+        title: "⚡️ Martin's Work Update.",
         data: {
           body: "I'm working on a new idea: LangSesh. It creates on-the-fly language exercises for people who have a spare 3 minutes and want to improve their target language. I'm making good progress to launch it at the start of next year.",
         },
@@ -1903,7 +1903,7 @@ const entries = [
       {
         type: "gallery",
         cost: 300,
-        title: "📸 &nbsp; We're heading in seperate directions for a few weeks!",
+        title: "📸 &nbsp; We're making our way to Da Nang seperately!",
         data: {
           id: "29aea06a1cac4537baa968410bab02cd",
           images: [{ url: "/entries/25-02-04/1.jpg" }],
@@ -1942,7 +1942,7 @@ const entries = [
       {
         type: "youtube",
         cost: 300,
-        title: "🎥 &nbsp; So far I'm loving Cambodia",
+        title: "🎥 &nbsp; So far I'm loving Cambodia.",
         data: {
           body: "I arrived in Siem Reap 2 days ago. The city is already surprising me with its quaint vibes, impressive cafes, co-working spaces and awesome food options. In this video, I show you two spots I've enjoyed working from.",
           thumbnail: "/entries/25-02-06/sr.jpg",
@@ -1958,7 +1958,7 @@ const entries = [
       {
         type: "gallery",
         cost: 200,
-        title: "📸 &nbsp; I went to Angkor Wat. And WOAH!",
+        title: "📸 &nbsp; I went to Angkor Wat. WOAH!",
         data: {
           id: "23191a8787094b4baf4c4d93810789c2",
           images: [{ url: "/entries/25-02-08/2.jpg" }, { url: "/entries/25-02-08/3.jpg" }, { url: "/entries/25-02-08/4.jpg" }, { url: "/entries/25-02-08/5.jpg" }, { url: "/entries/25-02-08/6.jpg" }, { url: "/entries/25-02-08/7.jpg" },],
@@ -2049,7 +2049,7 @@ const entries = [
       {
         type: "gallery",
         cost: 300,
-        title: "📸 &nbsp; I found James! We've been exploring Bangkok",
+        title: "📸 &nbsp; I found James! We've been exploring Bangkok.",
         data: {
           id: "0d2661f318974fc3a79bd25d4bde4cf5",
           images: [{ url: "/entries/25-03-07/1.jpg" }, { url: "/entries/25-03-07/3.jpg" }, { url: "/entries/25-03-07/4.jpg" }, { url: "/entries/25-03-07/2.jpg" }],
@@ -2133,7 +2133,7 @@ const entries = [
       {
         type: "youtube",
         cost: 300,
-        title: "🎥 &nbsp; Journee Girls Club is growing. Time to go ghost!",
+        title: "🎥 &nbsp; Journee Girls Club is growing!",
         data: {
           body: "I'll catch you up on everything that's gone down and show you some of the behind the scenes of building the second wave of Journee Girls Club, the private online community for young female founders, entrepreneurs & freelancers leveling up in life & business together.",
           thumbnail: "/entries/25-03-28/hoian.jpg",
@@ -2149,7 +2149,7 @@ const entries = [
       {
         type: "gallery",
         cost: 0,
-        title: "📸 &nbsp; Having Martin's mum here has been a blast! We're going to miss hanging out with her",
+        title: "📸 &nbsp; Having Martin's mum here has been a blast! We're going to miss hanging out with her.",
         data: {
           id: "dd233f950c0549bca38921a55113a62c",
           images: [{ url: "/entries/25-04-05/7.jpg" }, { url: "/entries/25-04-05/6.jpg" }, { url: "/entries/25-04-05/8.jpg" }, { url: "/entries/25-04-05/9.jpg" }],
@@ -2321,7 +2321,7 @@ const entries = [
       {
         type: "gallery",
         cost: 0,
-        title: "📸 &nbsp; We made it to Surat Thani",
+        title: "📸 &nbsp; We made it to Surat Thani.",
         data: {
           id: "486808764b464ec38d55333f010f23da",
           images: [{ url: "/entries/25-05-16/1.jpg" },],
@@ -2382,7 +2382,7 @@ const entries = [
       {
         type: "text",
         cost: 0,
-        title: "⚡️ Our first thoughts on Koh Phangan",
+        title: "⚡️ Our first thoughts on Koh Phangan.",
         data: {
           body: "So far we've been impressed with this island. We're living a small life with a very focused routine and we're loving it! The nature is incredible and it's easy to get around everywhere. We think we're gonna love it here!",
         },
@@ -2405,7 +2405,7 @@ const entries = [
       {
         type: "text",
         cost: -10000,
-        title: "⚡️ Plan B just became Plan A",
+        title: "⚡️ Plan B just became Plan A.",
         data: {
           body: "After some debate, we've decided to put our last bit of savings into The Discovery Fund. We're so close to turning this fund around and being able to live off our projects, we're determined to make things work. We're feeling hopeful that before the end of this journey we'll achieve what we set out to do!",
         },
@@ -2419,12 +2419,28 @@ const entries = [
       {
         type: "feature",
         cost: 0,
-        title: "👩🏼‍💻 Introducing: The Journee Girls Club Podcast",
+        title: "👩🏼‍💻 Introducing: The Journee Girls Club Podcast!",
         data: {
           image: "/entries/25-05-28/Thumbnail.png",
-          text: "This podcast is bringing you into a room of 20 incredibly bright and deeply connected friends - talking about everything to do with business, mindset & community.",
+          text: "I've started this podcast to elevate some of the incredible voices of the girls in the community. They each have their own unique experiences & views, and we always have the best conversations. This projects aims to capture some of the magic that happens every day inside the community and bring it to the masses!",
           linkText: "Spotify",
           linkUrl: "https://open.spotify.com/episode/5K7phsz0Fdux2rx2m4JOac?si=38534b67223545d8",
+        },
+      },
+    ],
+  },
+   {
+    date: "2025-06-03",
+    authors: ["martin", "elizabeth"],
+    items: [
+      {
+        type: "youtube",
+        cost: 300,
+        title: "🎥 &nbsp; Why we disappeared to Koh Phangan.",
+        data: {
+          body: "It's been a while! We're now enjoying life on a small island.",
+          thumbnail: "/entries/25-06-03/29.png",
+          url: "https://youtu.be/OSqgbb4H9wk?si=XBOtq-2VkBHb5VAs",
         },
       },
     ],
