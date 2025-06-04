@@ -2017,14 +2017,6 @@ const entries = [
           url: "/entries/25-02-28/bkk.png",
         },
       },
-      {
-        type: "image",
-        cost: 300,
-        title: "📍 Let's go!",
-        data: {
-          url: "/entries/25-02-28/dmk-dad.png",
-        },
-      },
     ],
   },
   {
