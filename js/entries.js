@@ -1850,7 +1850,7 @@ const entries = [
         title: "📸 &nbsp; WELCOME PARTY DAY!!!",
         data: {
           id: "6bd4c1be9953490f9645d0b3c724a235",
-          images: [{ url: "/entries/25-01-18/8.jpg" }, { url: "/entries/25-01-18/9.jpg" }],
+          images: [{ url: "/entries/25-01-18/8.jpg" },],
         },
       },
       {
